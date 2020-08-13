@@ -1,0 +1,140 @@
+
+                 
+                   {
+                        "section": {
+                          
+                       
+                  "LVZLP6EAC2ATUBHT6IZ5MFMOGK4": {
+                   "title": "Header",
+                        
+                                "indent": 
+                                                   null
+                                                  ,
+                                "classes": "solid",
+                                            
+                                  
+
+                                "columns": [
+                                  
+                                    {   "alignment": 
+                                                       null
+                                                      ,
+                                        "vertical_align":
+                                                             null
+                                                            ,
+                                        "col_width": "auto",
+                                        "indent": 
+                                                     null
+                                                    ,
+                                        "column_border": 
+                                                             null
+                                                            ,
+                                        "column_id": "LI7ETIRD3LPNEDJ6XKZXBQ3ORF4",
+                                        "file_name": [ "column", "column_2A7CM4TMGTBUFPB2JHEEVO7NPE"]
+                                    }
+                                ]
+                            }, 
+                       
+                  "LBC7K4ZMTGXJU5KCYSHHI7RICFQ": {
+                   "title": "LP",
+                        
+                                   "left": {
+                                        "icon": "learning-plan",
+                                        "title":" خُطَّـةُ التَّعَلُّـمِ"
+                                                },
+                                
+                                "indent": 60,
+                                "classes": "",
+                                            
+                                  
+
+                                "columns": [
+                                  
+                                    {   "alignment": 
+                                                       null
+                                                      ,
+                                        "vertical_align":
+                                                             null
+                                                            ,
+                                        "col_width": "auto",
+                                        "indent": 
+                                                     null
+                                                    ,
+                                        "column_border": 
+                                                             null
+                                                            ,
+                                        "column_id": "LXHLCQI5DHQ6UPDMD4IYM2CG7OY",
+                                        "file_name": [ "column", "column_2A7CM4TMGTBUFPB2JHEEVO7NPE"]
+                                    }
+                                ]
+                            }, 
+                       
+                  "L5QFSOGYUB4KETLD5NSINP73PSM": {
+                   "title": "",
+                        
+                                "indent": 
+                                                   null
+                                                  ,
+                                "classes": "",
+                                            
+                                  
+
+                                "columns": [
+                                  
+                                    {   "alignment": 
+                                                       null
+                                                      ,
+                                        "vertical_align":
+                                                             null
+                                                            ,
+                                        "col_width": "auto",
+                                        "indent": 
+                                                     null
+                                                    ,
+                                        "column_border": 
+                                                             null
+                                                            ,
+                                        "column_id": "L7L5KBCKO6PHENG627Q74NGE5GA",
+                                        "file_name": [ "column", "column_2A7CM4TMGTBUFPB2JHEEVO7NPE"]
+                                    }
+                                ]
+                            }, 
+                       
+                  "L6MIIV4TYCSSEFHW2JW3OES4NVE": {
+                   "title": "",
+                        
+                                   "left": {
+                                        "icon": "question",
+                                        "title":"السّؤالُ الأساسيُّ"
+                                                },
+                                
+                                "indent": 60,
+                                "classes": "",
+                                            
+                                  
+
+                                "columns": [
+                                  
+                                    {   "alignment": 
+                                                       null
+                                                      ,
+                                        "vertical_align":
+                                                             null
+                                                            ,
+                                        "col_width": "auto",
+                                        "indent": 
+                                                     null
+                                                    ,
+                                        "column_border": 
+                                                             null
+                                                            ,
+                                        "column_id": "L4R7SXM7Q4NAUTOY3MPHP6K473M",
+                                        "file_name": [ "column", "column_2A7CM4TMGTBUFPB2JHEEVO7NPE"]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                      
+                
+    
