@@ -1,0 +1,68 @@
+
+{
+    "vrimage": {
+     
+        "LIFL32ZR5GQQEHLLJYVMOCWADSY":
+            {
+            
+            "url": "../../source/LQOQFUJFLPDXEXCCGLU36G6HKBQ/3.jpg",
+            "width":200,
+            "height":500,
+            "popupwidth":300,
+            "rotatespeed":4,
+
+
+            "hotspots": [
+                
+                {
+                    "hotspot_id": 1,
+                    "hotspot_title":"Area 1",
+
+                    "pitch":-60,
+                    "yaw":104,
+
+                    "content": [
+                        {
+                             "component_name": "section",
+                             "component_id": "LQQXNOHWPYPGEFOWJ2YKCZ2E2OY",
+                             "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                        }
+                    ]
+                },
+                {
+                    "hotspot_id": 2,
+                    "hotspot_title":"Area 2",
+
+                    "pitch":-60,
+                    "yaw":204,
+
+                    "content": [
+                        {
+                             "component_name": "section",
+                             "component_id": "LCCPXOFSLAUYUBFXDXSBHECOPQA",
+                             "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                        }
+                    ]
+                },
+                {
+                    "hotspot_id": 3,
+                    "hotspot_title":"Area 3",
+
+                    "pitch":-25,
+                    "yaw":225,
+
+                    "content": [
+                        {
+                             "component_name": "section",
+                             "component_id": "LAYS652CC6Z2UDDRLDDWQRJF3X4",
+                             "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                        }
+                    ]
+                }
+                ]
+            }
+        
+
+}
+
+}

@@ -1,0 +1,258 @@
+
+    {
+    "image_simulator": {
+             
+                "L3ERZEV2U7LPUZJBFMXDHVCXG3I":
+                 {
+                  "layers_title": "Features",
+                  "image_title": "Planet Cells",
+                  "border":  false,
+                  "border_color": "grey",
+                  "hotspot_color": true,
+                  "component_color":"#808080",
+                  "url": "../../source/LV7QU7KYMWDIUBBEQLHXTILRC7Q/first-image-01.png",  
+                  "layers": [
+                           
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 0,
+                                 "layer_name": "Cell Membrane",
+                                 "url": "../../source/LXLESATS7HPIUDLLQSJXDK3OHMM/image-02.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 1,
+                                 "layer_name": "Cytoplasm",
+                                 "url": "../../source/LL3WEXFLEKLXENDPOZR2HGREYQI/image-03.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 2,
+                                 "layer_name": "Vacuole",
+                                 "url": "../../source/LEAJCQUAWF54UZJP2ZHHLFDE2P4/image-04.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 3,
+                                 "layer_name": "Endoplasmic",
+                                 "url": "../../source/LMBO35A34CSJEJC4MDFGAEB4DVM/image-05.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 4,
+                                 "layer_name": "Nuclear Envolope",
+                                 "url": "../../source/LTBIWS4KEFYBEJGWK54TYVREXUE/image-06.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 5,
+                                 "layer_name": "Necleus",
+                                 "url": "../../source/L3MZZRDMT2P2ERGU2CXO6XBE75E/image-07.png"
+                              } ,
+                            {
+                          
+                                   "hotspot_ids":[1],
+                                 
+                                 "layer_id": 6,
+                                 "layer_name": "Chloroplast",
+                                 "url": "../../source/LHX6APDVS4QEULC43235Y7MISIE/image-09.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 7,
+                                 "layer_name": "Golgi Apparatus",
+                                 "url": "../../source/L222LPYDDNVLEDK3BDFGOJEOM7U/image-10.png"
+                              } ,
+                            {
+                          
+                                   "hotspot_ids":[2],
+                                 
+                                 "layer_id": 8,
+                                 "layer_name": "Mitochondrion",
+                                 "url": "../../source/LVFWQXTZXFGGEJNYYRSYOLQXOF4/image-11.png"
+                              }  
+                           ],
+                  "hotspots": [
+                  
+                    {
+                     
+                      "hotspot_id": 1,
+                      "hotspot_name": " ",
+                      "shape": "square",
+
+                         
+                                    "coordinates": "577,213,622,248",
+                                                     
+                     
+                      "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LELMRCRDI5UPUDFEQW35A56XE44",
+                                  "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                              }
+                          ]
+                        },
+                    {
+                     
+                      "hotspot_id": 2,
+                      "hotspot_name": " ",
+                      "shape": "square",
+
+                         
+                                    "coordinates": "271,307,341,363",
+                                                     
+                     
+                      "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "L3Y2CVV57U66E7EQFQV75NHKSP4",
+                                  "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                              }
+                          ]
+                        }
+
+                  ]
+                  } ,
+                "LTGPXLIGPCTVUNGP5RP2NY6G2RU":
+                 {
+                  "layers_title": "Features",
+                  "image_title": "Planet Cells",
+                  "border":  true,
+                  "border_color": "blue",
+                  "hotspot_color": true,
+                  "component_color":"#1e90ff",
+                  "url": "../../source/LJOFQKYE7CPREHFSWE4ETUZ2HHQ/first-image-01.png",  
+                  "layers": [
+                           
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 0,
+                                 "layer_name": "Cell Membrane",
+                                 "url": "../../source/LEVQECYX5A2KEHACRTUSZDH3TNI/image-02.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 1,
+                                 "layer_name": "Cytoplasm",
+                                 "url": "../../source/LSP36XM33RO6EJNFCCH4WVD6M3Y/image-03.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 2,
+                                 "layer_name": "Vacuole",
+                                 "url": "../../source/LWC7SUU7GNR7URBQYA7JXLUG7IM/image-04.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 3,
+                                 "layer_name": "Endoplasmic",
+                                 "url": "../../source/LGUZK6I3WGP4E3FRS4ACJ5SG5B4/image-05.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 4,
+                                 "layer_name": "Nuclear Envolope",
+                                 "url": "../../source/LZYMD3GRZHUAETK5A2HND5KK5JQ/image-06.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 5,
+                                 "layer_name": "Necleus",
+                                 "url": "../../source/LWWCXDGRTYO4U5JQUHNUS3M6YVA/image-07.png"
+                              } ,
+                            {
+                          
+                                   "hotspot_ids":[1],
+                                 
+                                 "layer_id": 6,
+                                 "layer_name": "Chloroplast",
+                                 "url": "../../source/LSH3K24N3PFMULMJ3ZRACO2PQNY/image-09.png"
+                              } ,
+                            {
+                          
+                               "hotspot_ids":[],
+                            
+                                 "layer_id": 7,
+                                 "layer_name": "Golgi Apparatus",
+                                 "url": "../../source/LVXOCFYTGFXWELIT2S4F7NY73XI/image-10.png"
+                              } ,
+                            {
+                          
+                                   "hotspot_ids":[2],
+                                 
+                                 "layer_id": 8,
+                                 "layer_name": "Mitochondrion",
+                                 "url": "../../source/LEE4IJREMO6WEDJ4K2XO2LRCQHM/image-11.png"
+                              }  
+                           ],
+                  "hotspots": [
+                  
+                    {
+                     
+                      "hotspot_id": 1,
+                      "hotspot_name": " ",
+                      "shape": "square",
+
+                         
+                                    "coordinates": "576,213,617,251",
+                                                     
+                     
+                      "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LVOLQPHJFW7QU3PY7S5QKAOG33Y",
+                                  "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                              }
+                          ]
+                        },
+                    {
+                     
+                      "hotspot_id": 2,
+                      "hotspot_name": " ",
+                      "shape": "square",
+
+                         
+                                    "coordinates": "271,306,342,361",
+                                                     
+                     
+                      "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LCSTU3GTNRLFUZFSO3I7RDRMRO4",
+                                  "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                              }
+                          ]
+                        }
+
+                  ]
+                  } 
+    }
+}
+
+    

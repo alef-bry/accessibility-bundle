@@ -1,0 +1,186 @@
+
+    {
+    "flipcards": {
+             
+                "L2LDHKZAOGIZEZFK6XP6N4PL4BY":
+                 {
+                  "columns":  3,
+                  "multiple_open":   false,
+                  "flip_direction": "right",
+                  "height": 500,
+                  "width":
+                                null
+                              ,
+                  "background": "",  
+                  "items": [
+                           
+                              {
+                                    "card_id": 0,
+                                    "title": "Step 1",
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LHB6JKPCEHBSUZPOBUJOQWB7EIM",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LGZJGXCH3FJTUPO2Q5XHVDPQZOA",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                          ,
+                              {
+                                    "card_id": 1,
+                                    "title": "Step 1",
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LPODUCWLK5UAUTMSEWUGWPHADUE",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LSTKH276A7DVUJB2HDPC6GNWRFY",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                          ,
+                              {
+                                    "card_id": 2,
+                                    "title": "Step 1",
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "L3VANGVF2O5RUFOZFBX23UGJKOE",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LL4LHXIRFIYKUJOBER3LXRGLL6U",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                           
+                           ]
+                  } ,
+                "LL6TS7YQC2J3ELOFSTBWLSP6PAI":
+                 {
+                  "columns":  3,
+                  "multiple_open":   false,
+                  "flip_direction": "left",
+                  "height": 400,
+                  "width":
+                                null
+                              ,
+                  "background": "",  
+                  "items": [
+                           
+                              {
+                                    "card_id": 0,
+                                    "title": "Step 1",
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LXR3SRJ4CUNAUVO4RI4WKEFED64",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LCIIVMGJOA2DEDLPJYDXQGFWN7Q",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                          ,
+                              {
+                                    "card_id": 1,
+                                    "title": "Step 1",
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LFUR5GH6A5FOUBPSZKQ4J2S5F2Y",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "L5SIL3GKO7R2UBFPJAU4LI2F4R4",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                          ,
+                              {
+                                    "card_id": 2,
+                                    "title": "Step 1",
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LWQMBQHDJEUWERLXT5YAA27VK34",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LPZYLHR7PGKRU3KLMFO3QJACC24",
+                                                "file_name": [ "section", "section_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                           
+                           ]
+                  } 
+    }
+}
+
+    
