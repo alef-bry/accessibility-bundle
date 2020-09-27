@@ -4,7 +4,7 @@
                         "data": {
                                 "type": "advance",
                                 "autoplay": false,
-                                "url": "./source/LQWA4FYP7XBXEBIRAVBYP25WENE/AR7_MLO_151_MP_001.mp3",
+                                "url": "../../source/LQWA4FYP7XBXEBIRAVBYP25WENE/AR7_MLO_151_MP_001.mp3",
                                 "id": "LQWA4FYP7XBXEBIRAVBYP25WENE",
                                 "controls": {
                                         "seekbar": true,
@@ -15,7 +15,7 @@
                                 "position": null,
                                 "subtitles": [
                                         {
-                                                "url": "./source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
+                                                "url": "../../source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
                                                 "srclang": "en",
                                                 "lang_name": "English",
                                                 "default": true
@@ -27,7 +27,7 @@
                         "data": {
                                 "type": "advance",
                                 "autoplay": false,
-                                "url": "./source/LRVVJNCZ7GSNUHGBZS3VMJI546Y/AR7_MLO_151_MP_001.mp3",
+                                "url": "../../source/LRVVJNCZ7GSNUHGBZS3VMJI546Y/AR7_MLO_151_MP_001.mp3",
                                 "id": "LRVVJNCZ7GSNUHGBZS3VMJI546Y",
                                 "controls": {
                                         "seekbar": true,
@@ -38,7 +38,7 @@
                                 "position": null,
                                 "subtitles": [
                                         {
-                                                "url": "./source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
+                                                "url": "../../source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
                                                 "srclang": "en",
                                                 "lang_name": "English",
                                                 "default": true
@@ -50,7 +50,7 @@
                         "data": {
                                 "type": "advance",
                                 "autoplay": false,
-                                "url": "./source/LV3VNSFUFJMPEVIUIS7NMN2IRGY/AR7_MLO_151_MP_001.mp3",
+                                "url": "../../source/LV3VNSFUFJMPEVIUIS7NMN2IRGY/AR7_MLO_151_MP_001.mp3",
                                 "id": "LV3VNSFUFJMPEVIUIS7NMN2IRGY",
                                 "controls": {
                                         "seekbar": true,
@@ -61,7 +61,7 @@
                                 "position": null,
                                 "subtitles": [
                                         {
-                                                "url": "./source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
+                                                "url": "../../source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
                                                 "srclang": "en",
                                                 "lang_name": "English",
                                                 "default": true

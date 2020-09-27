@@ -9,7 +9,7 @@
                                             "type": "advance",
                                       
                                             "autoplay": false,
-                                            "url": "./source/LYNDXOUCTCY6EXMU3I5WFFATU5Q/SampleAudio.mp3",
+                                            "url": "../../source/LYNDXOUCTCY6EXMU3I5WFFATU5Q/SampleAudio.mp3",
                                             "id": "LYNDXOUCTCY6EXMU3I5WFFATU5Q",
                                             "controls": {
                                                     "seekbar": true,
@@ -27,7 +27,7 @@
                                             "type": "advance",
                                       
                                             "autoplay": false,
-                                            "url": "./source/LYEYW7KGHKDWEVHJ4HA63L6J5JQ/SampleAudio.mp3",
+                                            "url": "../../source/LYEYW7KGHKDWEVHJ4HA63L6J5JQ/SampleAudio.mp3",
                                             "id": "LYEYW7KGHKDWEVHJ4HA63L6J5JQ",
                                             "controls": {
                                                     "seekbar": true,
@@ -45,7 +45,7 @@
                                             "type": "simple",
                                       
                                             "autoplay": false,
-                                            "url": "./source/LYFF5JI2I52EENALSF5JHO43VQ4/SampleAudio.mp3",
+                                            "url": "../../source/LYFF5JI2I52EENALSF5JHO43VQ4/SampleAudio.mp3",
                                             "id": "LYFF5JI2I52EENALSF5JHO43VQ4",
                                             "controls": {
                                                     "seekbar": true,
@@ -63,7 +63,7 @@
                                             "type": "simple",
                                       
                                             "autoplay": false,
-                                            "url": "./source/LICGJBUYN7FHEFEW64TBF2GQM7Y/SampleAudio.mp3",
+                                            "url": "../../source/LICGJBUYN7FHEFEW64TBF2GQM7Y/SampleAudio.mp3",
                                             "id": "LICGJBUYN7FHEFEW64TBF2GQM7Y",
                                             "controls": {
                                                     "seekbar": true,

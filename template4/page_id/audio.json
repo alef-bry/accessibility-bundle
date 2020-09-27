@@ -9,7 +9,7 @@
                                             "type": "simple",
                                       
                                             "autoplay": false,
-                                            "url": "./source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/SampleAudio.mp3",
+                                            "url": "../../source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/SampleAudio.mp3",
                                             "id": "L2KTJYYQZITJE3FC7OUDQ7YFIHI",
                                             "controls": {
                                                     "seekbar": true,
@@ -27,7 +27,7 @@
                                             "type": "advance",
                                       
                                             "autoplay": false,
-                                            "url": "./source/LDB5V4E27RDYUNOVXOB5QPKZRFQ/SampleAudio.mp3",
+                                            "url": "../../source/LDB5V4E27RDYUNOVXOB5QPKZRFQ/SampleAudio.mp3",
                                             "id": "LDB5V4E27RDYUNOVXOB5QPKZRFQ",
                                             "controls": {
                                                     "seekbar": true,
