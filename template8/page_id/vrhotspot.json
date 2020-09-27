@@ -5,7 +5,7 @@
         "LIFL32ZR5GQQEHLLJYVMOCWADSY":
             {
             
-            "url": "../../source/LQOQFUJFLPDXEXCCGLU36G6HKBQ/3.jpg",
+            "url": "./source/LQOQFUJFLPDXEXCCGLU36G6HKBQ/3 (1).jpg",
             "width":200,
             "height":500,
             "popupwidth":300,
@@ -15,6 +15,7 @@
             "hotspots": [
                 
                 {
+                    "id": "L2OTBQI55AEOUHICLQUID7JZ3QE",
                     "hotspot_id": 1,
                     "hotspot_title":"Area 1",
 
@@ -30,6 +31,7 @@
                     ]
                 },
                 {
+                    "id": "LURVWITME4S4EVCX2NSN4FWIYWU",
                     "hotspot_id": 2,
                     "hotspot_title":"Area 2",
 
@@ -45,6 +47,7 @@
                     ]
                 },
                 {
+                    "id": "L2Y77BSCHGABUTF4GDHCI34WPSQ",
                     "hotspot_id": 3,
                     "hotspot_title":"Area 3",
 

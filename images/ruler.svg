@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ruler</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ruler" transform="translate(1.000000, 1.000000)" stroke="#0079B5" stroke-width="2">
+            <path d="M7.01331367,0.701736349 L31.2912935,25.0340368 C31.6813812,25.4249972 31.6806736,26.0581618 31.2897132,26.4482494 C31.288916,26.4490448 31.2881175,26.4498389 31.2873176,26.4506316 L26.3965981,31.2975711 C26.0049103,31.6857527 25.3729053,31.6835816 24.9838938,31.2927182 L0.710724259,6.90399876 C0.321128384,6.51254826 0.322631859,5.87938506 0.714082365,5.48978919 C0.715850302,5.48802963 0.717624816,5.48627669 0.71940587,5.4845304 L5.60531493,0.694009896 C5.99723481,0.30974154 6.62563464,0.313189911 7.01331367,0.701736349 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <line x1="21.5" y1="27.5" x2="24.5" y2="24.5" id="Line" stroke-linecap="square"></line>
+            <line x1="15.5" y1="21.5" x2="17.5" y2="19.5" id="Line-2" stroke-linecap="square"></line>
+            <line x1="9.5" y1="15.5" x2="12.5" y2="12.5" id="Line-3" stroke-linecap="square"></line>
+            <line x1="4.5" y1="9.5" x2="6.5" y2="7.5" id="Line-4" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>

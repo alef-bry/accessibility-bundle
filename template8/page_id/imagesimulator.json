@@ -10,93 +10,109 @@
                   "border_color": "grey",
                   "hotspot_color": true,
                   "component_color":"#808080",
-                  "url": "../../source/LV7QU7KYMWDIUBBEQLHXTILRC7Q/first-image-01.png",  
+                  "url": "./source/LV7QU7KYMWDIUBBEQLHXTILRC7Q/first-image-01.png",  
                   "layers": [
                            
                             {
+                             "id":"LXLESATS7HPIUDLLQSJXDK3OHMM",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 0,
                                  "layer_name": "Cell Membrane",
-                                 "url": "../../source/LXLESATS7HPIUDLLQSJXDK3OHMM/image-02.png"
+                                 "url": "./source/LXLESATS7HPIUDLLQSJXDK3OHMM/image-02.png"
                               } ,
                             {
+                             "id":"LL3WEXFLEKLXENDPOZR2HGREYQI",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 1,
                                  "layer_name": "Cytoplasm",
-                                 "url": "../../source/LL3WEXFLEKLXENDPOZR2HGREYQI/image-03.png"
+                                 "url": "./source/LL3WEXFLEKLXENDPOZR2HGREYQI/image-03.png"
                               } ,
                             {
+                             "id":"LEAJCQUAWF54UZJP2ZHHLFDE2P4",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 2,
                                  "layer_name": "Vacuole",
-                                 "url": "../../source/LEAJCQUAWF54UZJP2ZHHLFDE2P4/image-04.png"
+                                 "url": "./source/LEAJCQUAWF54UZJP2ZHHLFDE2P4/image-04.png"
                               } ,
                             {
+                             "id":"LMBO35A34CSJEJC4MDFGAEB4DVM",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 3,
                                  "layer_name": "Endoplasmic",
-                                 "url": "../../source/LMBO35A34CSJEJC4MDFGAEB4DVM/image-05.png"
+                                 "url": "./source/LMBO35A34CSJEJC4MDFGAEB4DVM/image-05.png"
                               } ,
                             {
+                             "id":"LTBIWS4KEFYBEJGWK54TYVREXUE",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 4,
                                  "layer_name": "Nuclear Envolope",
-                                 "url": "../../source/LTBIWS4KEFYBEJGWK54TYVREXUE/image-06.png"
+                                 "url": "./source/LTBIWS4KEFYBEJGWK54TYVREXUE/image-06.png"
                               } ,
                             {
+                             "id":"L3MZZRDMT2P2ERGU2CXO6XBE75E",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 5,
                                  "layer_name": "Necleus",
-                                 "url": "../../source/L3MZZRDMT2P2ERGU2CXO6XBE75E/image-07.png"
+                                 "url": "./source/L3MZZRDMT2P2ERGU2CXO6XBE75E/image-07.png"
                               } ,
                             {
+                             "id":"LHX6APDVS4QEULC43235Y7MISIE",
                           
-                                   "hotspot_ids":[1],
-                                 
+                               "hotspot_ids":[
+
+                               1
+                               ],
+                           
                                  "layer_id": 6,
                                  "layer_name": "Chloroplast",
-                                 "url": "../../source/LHX6APDVS4QEULC43235Y7MISIE/image-09.png"
+                                 "url": "./source/LHX6APDVS4QEULC43235Y7MISIE/image-09.png"
                               } ,
                             {
+                             "id":"L222LPYDDNVLEDK3BDFGOJEOM7U",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 7,
                                  "layer_name": "Golgi Apparatus",
-                                 "url": "../../source/L222LPYDDNVLEDK3BDFGOJEOM7U/image-10.png"
+                                 "url": "./source/L222LPYDDNVLEDK3BDFGOJEOM7U/image-10.png"
                               } ,
                             {
+                             "id":"LVFWQXTZXFGGEJNYYRSYOLQXOF4",
                           
-                                   "hotspot_ids":[2],
-                                 
+                               "hotspot_ids":[
+
+                               2
+                               ],
+                           
                                  "layer_id": 8,
                                  "layer_name": "Mitochondrion",
-                                 "url": "../../source/LVFWQXTZXFGGEJNYYRSYOLQXOF4/image-11.png"
+                                 "url": "./source/LVFWQXTZXFGGEJNYYRSYOLQXOF4/image-11.png"
                               }  
                            ],
                   "hotspots": [
                   
                     {
                      
+                      "id": "L64O6IOQME3EUHL73EDDBSAKSBE",
                       "hotspot_id": 1,
                       "hotspot_name": " ",
                       "shape": "square",
 
                          
-                                    "coordinates": "577,213,622,248",
-                                                     
+                                         "coordinates": "577,213,622,248",
+                                                        
                      
                       "content": [
                               {
@@ -108,13 +124,14 @@
                         },
                     {
                      
+                      "id": "LDS3PQKNSHU2EPLUXIVP2ZONFIY",
                       "hotspot_id": 2,
                       "hotspot_name": " ",
                       "shape": "square",
 
                          
-                                    "coordinates": "271,307,341,363",
-                                                     
+                                         "coordinates": "271,307,341,363",
+                                                        
                      
                       "content": [
                               {
@@ -135,93 +152,109 @@
                   "border_color": "blue",
                   "hotspot_color": true,
                   "component_color":"#1e90ff",
-                  "url": "../../source/LJOFQKYE7CPREHFSWE4ETUZ2HHQ/first-image-01.png",  
+                  "url": "./source/LJOFQKYE7CPREHFSWE4ETUZ2HHQ/first-image-01.png",  
                   "layers": [
                            
                             {
+                             "id":"LEVQECYX5A2KEHACRTUSZDH3TNI",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 0,
                                  "layer_name": "Cell Membrane",
-                                 "url": "../../source/LEVQECYX5A2KEHACRTUSZDH3TNI/image-02.png"
+                                 "url": "./source/LEVQECYX5A2KEHACRTUSZDH3TNI/image-02.png"
                               } ,
                             {
+                             "id":"LSP36XM33RO6EJNFCCH4WVD6M3Y",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 1,
                                  "layer_name": "Cytoplasm",
-                                 "url": "../../source/LSP36XM33RO6EJNFCCH4WVD6M3Y/image-03.png"
+                                 "url": "./source/LSP36XM33RO6EJNFCCH4WVD6M3Y/image-03.png"
                               } ,
                             {
+                             "id":"LWC7SUU7GNR7URBQYA7JXLUG7IM",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 2,
                                  "layer_name": "Vacuole",
-                                 "url": "../../source/LWC7SUU7GNR7URBQYA7JXLUG7IM/image-04.png"
+                                 "url": "./source/LWC7SUU7GNR7URBQYA7JXLUG7IM/image-04.png"
                               } ,
                             {
+                             "id":"LGUZK6I3WGP4E3FRS4ACJ5SG5B4",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 3,
                                  "layer_name": "Endoplasmic",
-                                 "url": "../../source/LGUZK6I3WGP4E3FRS4ACJ5SG5B4/image-05.png"
+                                 "url": "./source/LGUZK6I3WGP4E3FRS4ACJ5SG5B4/image-05.png"
                               } ,
                             {
+                             "id":"LZYMD3GRZHUAETK5A2HND5KK5JQ",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 4,
                                  "layer_name": "Nuclear Envolope",
-                                 "url": "../../source/LZYMD3GRZHUAETK5A2HND5KK5JQ/image-06.png"
+                                 "url": "./source/LZYMD3GRZHUAETK5A2HND5KK5JQ/image-06.png"
                               } ,
                             {
+                             "id":"LWWCXDGRTYO4U5JQUHNUS3M6YVA",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 5,
                                  "layer_name": "Necleus",
-                                 "url": "../../source/LWWCXDGRTYO4U5JQUHNUS3M6YVA/image-07.png"
+                                 "url": "./source/LWWCXDGRTYO4U5JQUHNUS3M6YVA/image-07.png"
                               } ,
                             {
+                             "id":"LSH3K24N3PFMULMJ3ZRACO2PQNY",
                           
-                                   "hotspot_ids":[1],
-                                 
+                               "hotspot_ids":[
+
+                               1
+                               ],
+                           
                                  "layer_id": 6,
                                  "layer_name": "Chloroplast",
-                                 "url": "../../source/LSH3K24N3PFMULMJ3ZRACO2PQNY/image-09.png"
+                                 "url": "./source/LSH3K24N3PFMULMJ3ZRACO2PQNY/image-09.png"
                               } ,
                             {
+                             "id":"LVXOCFYTGFXWELIT2S4F7NY73XI",
                           
                                "hotspot_ids":[],
                             
                                  "layer_id": 7,
                                  "layer_name": "Golgi Apparatus",
-                                 "url": "../../source/LVXOCFYTGFXWELIT2S4F7NY73XI/image-10.png"
+                                 "url": "./source/LVXOCFYTGFXWELIT2S4F7NY73XI/image-10.png"
                               } ,
                             {
+                             "id":"LEE4IJREMO6WEDJ4K2XO2LRCQHM",
                           
-                                   "hotspot_ids":[2],
-                                 
+                               "hotspot_ids":[
+
+                               2
+                               ],
+                           
                                  "layer_id": 8,
                                  "layer_name": "Mitochondrion",
-                                 "url": "../../source/LEE4IJREMO6WEDJ4K2XO2LRCQHM/image-11.png"
+                                 "url": "./source/LEE4IJREMO6WEDJ4K2XO2LRCQHM/image-11.png"
                               }  
                            ],
                   "hotspots": [
                   
                     {
                      
+                      "id": "LOMHONNFUN4XEZH3JZLUKJ27PZ4",
                       "hotspot_id": 1,
                       "hotspot_name": " ",
                       "shape": "square",
 
                          
-                                    "coordinates": "576,213,617,251",
-                                                     
+                                         "coordinates": "576,213,617,251",
+                                                        
                      
                       "content": [
                               {
@@ -233,13 +266,14 @@
                         },
                     {
                      
+                      "id": "LXHXK7SUEE3PEZIQ5ZX5HXQ6JIA",
                       "hotspot_id": 2,
                       "hotspot_name": " ",
                       "shape": "square",
 
                          
-                                    "coordinates": "271,306,342,361",
-                                                     
+                                         "coordinates": "271,306,342,361",
+                                                        
                      
                       "content": [
                               {

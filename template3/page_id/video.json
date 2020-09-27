@@ -1,0 +1,54 @@
+
+      {
+      "video": {
+                  
+                
+                      "LOX37U6NQZKFE5KDX7RY5QGTXUQ": {
+                            "data": {
+                                "url": "./source/LOX37U6NQZKFE5KDX7RY5QGTXUQ/mov_bbb.mp4",
+                                "style": "square",
+                                 "border": {
+                                            "width": 2,
+                                            "color": "Grey"
+                                        },
+                                "controls": {
+                                     "cc": true,
+                                     "show_duration": false,
+                                     "show_time": true,
+                                     "volume_control": true,
+                                     "seekbar": true,
+                                     "volume": true,
+                                     "download": true,
+                                     "fullscreen": true
+                                },
+                               "ratio": "16:9"
+                                   }
+                                   }
+                                ,
+                
+                      "LEOGQB2BVYMEE5NGP3DORE7BNXI": {
+                            "data": {
+                                "url": "./source/LEOGQB2BVYMEE5NGP3DORE7BNXI/mov_bbb.mp4",
+                                "style": "square",
+                                 "border": {
+                                            "width": 2,
+                                            "color": "Grey"
+                                        },
+                                "controls": {
+                                     "cc": false,
+                                     "show_duration": false,
+                                     "show_time": true,
+                                     "volume_control": false,
+                                     "seekbar": true,
+                                     "volume": false,
+                                     "download": false,
+                                     "fullscreen": false
+                                },
+                               "ratio": "16:9"
+                                   }
+                                   }
+                                  
+         }
+      }
+
+    

@@ -1,0 +1,136 @@
+
+    {
+    "image_hotspot": {
+             
+                "LW5PQN4UQ5TOUNCVDNV4BMJJHTA":
+                 {
+                  "image_id":"LQNQJKKA7OE4EFH534HXZ54ZCXI",
+                  "url":"./source/LQNQJKKA7OE4EFH534HXZ54ZCXI/pic13.jpg",
+                  "border": true,
+                  "hotspot_color": true,
+                  "width":300, 
+                  "position": "center",
+                  "component_color":"#1e90ff",
+                  "border_color": "grey", 
+                  "hotspots":[
+                 
+                  {
+                   "hotspot_id": 0,
+                   "coordinates": "159,9,181,36",
+                   
+                         "id": "LVIK6BNZUITFE5BKMNODCOCRIGI",
+                         "hotspot_name": "Hotspot name",
+                         "shape": "square",
+
+                         "hotspot_icon": null,
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LAB7FB65G6PEUVMT2FIXPGJZKTI",
+                                  "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                          ]
+                        
+                   }
+                   ]
+                  },
+                "LTT7BGJ5SUOYEBFE2NGYM73ZEHM":
+                 {
+                  "image_id":"LYP34DWKWWYIEZF6U3NQK4KPD4I",
+                  "url":"./source/LYP34DWKWWYIEZF6U3NQK4KPD4I/pic13.jpg",
+                  "border": true,
+                  "hotspot_color": false,
+                  "width":300, 
+                  "position": "center",
+                  "component_color":"#1e90ff",
+                  "border_color": "grey", 
+                  "hotspots":[
+                 
+                  {
+                   "hotspot_id": 0,
+                   "coordinates": "157,9,180,35",
+                   
+                         "id": "LX6TV6HSGSYUETBLQARQINP7ZDA",
+                         "hotspot_name": "Hotspot name",
+                         "shape": "square",
+
+                         "hotspot_icon": null,
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LURVCLSNT6J5UPE2PCYOMAKU4IU",
+                                  "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                          ]
+                        
+                   }
+                   ]
+                  },
+                "L4EQRGC4YSDWUPGAYGIERVYSMSE":
+                 {
+                  "image_id":"LHVFN4V4FIA6ELCPXNZHB6FY3OY",
+                  "url":"./source/LHVFN4V4FIA6ELCPXNZHB6FY3OY/pic13.jpg",
+                  "border": false,
+                  "hotspot_color": true,
+                  "width":300, 
+                  "position": "center",
+                  "component_color":"#1e90ff",
+                  "border_color": "blue", 
+                  "hotspots":[
+                 
+                  {
+                   "hotspot_id": 0,
+                   "coordinates": "158,8,180,34",
+                   
+                         "id": "LGLJVMQWGRNVUJOHIBXE2DLTAZI",
+                         "hotspot_name": "Hotspot name",
+                         "shape": "square",
+
+                         "hotspot_icon": null,
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LEDQAS6ATXUYUFCIQCMUKDEWIOA",
+                                  "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                          ]
+                        
+                   }
+                   ]
+                  },
+                "LFHNIBILYK4OUNKUL2BRACFOQBE":
+                 {
+                  "image_id":"LKWM7DESMRVMETPTSXIINVTNMA4",
+                  "url":"./source/LKWM7DESMRVMETPTSXIINVTNMA4/pic13.jpg",
+                  "border": false,
+                  "hotspot_color": false,
+                  "width":300, 
+                  "position": "center",
+                  "component_color":"#1e90ff",
+                  "border_color": "blue", 
+                  "hotspots":[
+                 
+                  {
+                   "hotspot_id": 0,
+                   "coordinates": "157,8,183,36",
+                   
+                         "id": "L5M4YIV3TBTHU7LSCHQZLSHK4ZY",
+                         "hotspot_name": "Hotspot name",
+                         "shape": "square",
+
+                         "hotspot_icon": null,
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "L6WCWZTMVRSAE3AM4RQ2DP47UOE",
+                                  "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                          ]
+                        
+                   }
+                   ]
+                  }
+        }
+     }
+
+    

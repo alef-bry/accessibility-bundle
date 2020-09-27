@@ -1,0 +1,138 @@
+
+
+{
+    "audio_advanced": {
+
+
+
+        "LZI6MQBRKB32UJOKHX6N4OTK7JM": {
+        
+        "audio": {
+            "component_id": "LSP6JXXNLPHSEXHFYIIPG2BP5UE",
+            "component_name": "audio",
+            "file_name": ["audio","audio_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+            },
+        "adaptive_height": true,
+        "enable_slide" : false,
+        "animation" : "slide",
+        "type" : "normal",
+        "items": [
+          
+                    {
+                        "id": "LHN4TIHANZJ5UBE4UAF2Z7XXKK4",
+                        "time": "00:00:03",
+                        "slide_id": 0,
+                        "content": [
+                            {
+                                "component_name": "section",
+                                "component_id": "LBCRWLXJJTKUUPCJHEJVJUGQYZY",
+                                "file_name": ["section","section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                            }
+                        ],
+                      "stop_audio":false
+                    },
+                    {
+                        "id": "LN2JSFLVL5NBE3NXGIOAJUORO4I",
+                        "time": "00:00:09",
+                        "slide_id": 1,
+                        "content": [
+                            {
+                                "component_name": "section",
+                                "component_id": "LFQOHJTWLB7ZU5IHVZIFUXUA66U",
+                                "file_name": ["section","section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                            }
+                        ],
+                      "stop_audio":false
+                    }
+            ]
+},
+
+        "LOR3HLY5T24SUPLLPPNMHLR2ETE": {
+        
+        "audio": {
+            "component_id": "LKLLBUUYA72VUPEVHUSSAZJAHNQ",
+            "component_name": "audio",
+            "file_name": ["audio","audio_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+            },
+        "adaptive_height": false,
+        "enable_slide" : false,
+        "animation" : "slide",
+        "type" : "normal",
+        "items": [
+          
+                    {
+                        "id": "L26RXQSX2LJZEXHYDFJHTWXGNAM",
+                        "time": "00:00:03",
+                        "slide_id": 0,
+                        "content": [
+                            {
+                                "component_name": "section",
+                                "component_id": "LUWHOQFCBAEOEDCNVXH74E4RGNA",
+                                "file_name": ["section","section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                            }
+                        ],
+                      "stop_audio":true
+                    },
+                    {
+                        "id": "LV5MFTONZPQDEVIJC4OWDDCOKZQ",
+                        "time": "00:00:09",
+                        "slide_id": 1,
+                        "content": [
+                            {
+                                "component_name": "section",
+                                "component_id": "LQVN6AEMQNWUUHHYPSKZLT77NEE",
+                                "file_name": ["section","section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                            }
+                        ],
+                      "stop_audio":true
+                    }
+            ]
+},
+
+        "LIX2GL7VJKGDUTDYTLODMCJ6EDQ": {
+        
+        "audio": {
+            "component_id": "LCJ53R2SPJHOU7LX3HGKNGR3UJY",
+            "component_name": "audio",
+            "file_name": ["audio","audio_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+            },
+        "adaptive_height": true,
+        "enable_slide" : true,
+        "animation" : "slide",
+        "type" : "normal",
+        "items": [
+          
+                    {
+                        "id": "LBNUM3AT6CPKEDGCID7UAUUQNUM",
+                        "time": "00:00:03",
+                        "slide_id": 0,
+                        "content": [
+                            {
+                                "component_name": "section",
+                                "component_id": "LZHCVNZ44B2BUTOJIQ2IQGF4MZU",
+                                "file_name": ["section","section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                            }
+                        ],
+                      "stop_audio":false
+                    },
+                    {
+                        "id": "LF6A3DLRN2RHEVAQB72UGE2XDC4",
+                        "time": "00:00:09",
+                        "slide_id": 1,
+                        "content": [
+                            {
+                                "component_name": "section",
+                                "component_id": "LTW3RL27BW4TETAC7QYI4Y33I6Y",
+                                "file_name": ["section","section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                            }
+                        ],
+                      "stop_audio":false
+                    }
+            ]
+}
+}
+
+}
+
+
+ 

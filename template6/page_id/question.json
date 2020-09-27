@@ -1,0 +1,99 @@
+
+
+{
+   "question": {
+
+   
+
+                 "LL7D335J6YJXUFPOJSY2PELXRUQ" : {
+                   "type": "graph",
+                   "graphType": "drawing" ,
+                    "width": 600,
+                    "height": 600,
+                    "point": true,
+                            
+                    "line": true,
+                    "segment": true,
+                    "triangle": true,
+                   "circle": true,
+                   "rectangle": true,
+                   "angle": true,
+                   "move": true,
+                   "ruler":  true,
+                   "protractor": true,
+                  "clear":   true,
+                   "undo":  true,
+                  "redo":  true,
+                  "answer": [
+                    
+                        {
+                            "answer_id": "LHEW4EGQYJDEUJAXORTQCVH24QE",
+                            "type" : "circle",
+                            "validation": "coordinates",
+                            "coords" : [
+                                {
+                                  "point" : "2,2"
+                                },
+                                {
+                                  "point" : "4,2"
+                                }
+                            ],
+                            "angles": [],
+                            "length" : [4]
+                        }
+                          ,
+                          {
+                              "answer_id": "LMRTZOOYGCCWEJKGC6U2EN34JUE",
+                              "type" : "line",
+                              "validation": "coordinates",
+                              "coords" : [
+                                  {
+                                    "point" : "2,1"
+                                  },
+                                  {
+                                    "point" : "2,4"
+                                  }
+                              ],
+                            "angles": [],
+                            "length" : [3]
+                          }
+                          ,
+
+                         {
+                              "answer_id": "L642T2CRUIVPEXMVIOVQ56ZCLBY",
+                              "type" : "polygon",
+                              "validation": "coordinates",
+                              "coords" : [
+                                  {
+                                    "point" : "5,5"
+                                  },
+                                  {
+                                    "point" : "10,5"
+                                  },
+                                {
+                                    "point" : "10,10"
+                                  }
+                              ],
+                            "angles": [45,9045],
+                            "length" : [5,5,5]
+                          }
+                          
+                    
+                  ],
+                 "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                            ],
+                  "submit": {
+                            "text": "Submit"
+                            }
+                
+
+                 } 
+
+   }
+}
+
+    

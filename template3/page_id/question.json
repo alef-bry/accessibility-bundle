@@ -1,0 +1,517 @@
+
+
+{
+   "question": {
+
+   
+                 "L7B2PVRVVIFGEVMKK2AP47AGMIE":{
+                        "type": "dropdown",
+                        "column": 2,
+                         "submit_counter": false,
+                         "submit_limit": 2,
+                         "feedback_type": 
+                                                "incorrect"
+                                              ,  
+                         "item_auto_width": false,
+                    
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "L7XGBMM4DXJRUVNOH2E4ZOKEV3M",
+                                   "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                            ]
+                            
+                        },
+                      
+                            "sentence": {
+                            "id": "LYDDSEWXHIP7U7CU6RJJWVZAOTU",
+                           "content": [
+                              {
+                               "component_name": "html",
+                               "component_id": "LYDDSEWXHIP7U7CU6RJJWVZAOTU",
+                               "file_name": [ "html", "html_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                              ]                    
+                        },
+                      
+
+                  "options": [
+                     
+                         {
+                             "item_id": 1,
+                             "id": "LBURU4ND5GY7UFDD36RA6O327TQ",
+                             "choices": [
+                                         
+                                          {
+                                           "option_id": 0,
+                                           "id": "LJQDIZ6JBHVNUFH2LM4FCH655G4",
+                                           "is_correct":true,
+                                            "statement": {
+                                                            "component_name": "section",
+                                                            "component_id": "LFDCA7JOOT2MU5N3YQNMXPNLDEA",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          },
+                                             "feedback": {
+                                                            "component_name": "section",
+                                                            "component_id": "",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          }
+                                          
+                                          },
+                                          {
+                                           "option_id": 1,
+                                           "id": "LCVMOE52N6USE5EVSPPEAU2CIHY",
+                                           "is_correct":false,
+                                            "statement": {
+                                                            "component_name": "section",
+                                                            "component_id": "LMQBIZWC3FZMUFM4QBLWPVRT3MI",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          },
+                                             "feedback": {
+                                                            "component_name": "section",
+                                                            "component_id": "",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          }
+                                          
+                                          }
+
+
+                                         ]
+                            } ,
+                         {
+                             "item_id": 2,
+                             "id": "LDGKQE3ERVFWE7PDD5PG5LA2WYA",
+                             "choices": [
+                                         
+                                          {
+                                           "option_id": 0,
+                                           "id": "LGZBYN7PWRLAUFJJBIUEMOGRC3M",
+                                           "is_correct":false,
+                                            "statement": {
+                                                            "component_name": "section",
+                                                            "component_id": "LIGCVNYZ4GC2UDN6QLTQJ6D44EM",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          },
+                                             "feedback": {
+                                                            "component_name": "section",
+                                                            "component_id": "",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          }
+                                          
+                                          },
+                                          {
+                                           "option_id": 1,
+                                           "id": "LOSXGCNCMAZVUTENBFMQI57QNCQ",
+                                           "is_correct":true,
+                                            "statement": {
+                                                            "component_name": "section",
+                                                            "component_id": "L6DGFJVRXXV5ELIMUILWEULQ7YU",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          },
+                                             "feedback": {
+                                                            "component_name": "section",
+                                                            "component_id": "",
+                                                            "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                          }
+                                          
+                                          }
+
+
+                                         ]
+                            }  
+                        ],
+                         "feedback": {
+                                   
+                                  },
+                         "hints": [
+                              
+                                      ],
+                         "submit": {
+                                          "text": "Submit"
+                                    }
+                                  }
+      ,
+                 "LA64ZAOB4ODGEBHPRASEYNEQNQA":{
+                        "type": "dragNdrop",
+                        "column": 2,
+                        "submit_counter": false,
+                        "submit_limit": 2,
+                        "show_duplicate":true,
+                        "feedback_type": 
+                                                "incorrect"
+                                              ,
+                        "item_auto_width": false,
+                        "option_width":
+                                           null
+                                          ,
+                        "invert_position":
+                                                false
+                                              ,
+                        "sticky_options":
+                                                false
+                                              ,     
+                        "filed_theme": null,
+                        "position": null,
+                       
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LLSGFXT5KQBJUBLCIZWKAJPYPDQ",
+                                   "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                            ]
+                            
+                        },
+                      
+                           "sentence": {
+                            "id": "L6YORDEPFOHSUJC34GFNM2KHMSY",
+                           "content": [
+                              {
+                               "component_name": "html",
+                               "component_id": "L6YORDEPFOHSUJC34GFNM2KHMSY",
+                               "file_name": [ "html", "html_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                              ]                    
+                             },
+                           
+
+                 "items": [
+                  
+                     {
+                     
+                        "item_id":1,
+                        "answer_id":1,
+                      
+                      "feedback": {
+                         "component_name": "section",
+                         "component_id": "",
+                         "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                    }
+                     } ,
+                     {
+                     
+                        "item_id":2,
+                        "answer_id":2,
+                      
+                      "feedback": {
+                         "component_name": "section",
+                         "component_id": "",
+                         "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                    }
+                     } 
+
+                 ],
+
+
+
+                  "options": [
+                     
+                         {
+                              "id": "LLIJ6TNPJ4ZDETF64RXETJTOUWI",
+                              "description": "1",
+                             "option_id":  1,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LLZNGAY6TDTKE3J2PER5DHARFTE",
+                                  "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                          } ,
+                         {
+                              "id": "LN33OD3I6MWEELPQHUKEAIONFX4",
+                              "description": "2",
+                             "option_id":  2,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LFHTCPDC6UVGELCRKD43EEXH654",
+                                  "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                          }  
+                        ],
+                      
+
+
+                         "feedback": {
+                                   
+                                  },
+                         "hints": [
+                              
+                                      ],
+                         "submit": {
+                                          "text": "Submit"
+                                    }
+                                  },
+                 "LUO2EDIF6AYJU3O6PVGV7DGAE6U":{
+                        "type": "dragNdrop",
+                        "column": 2,
+                        "submit_counter": false,
+                        "submit_limit": 2,
+                        "show_duplicate":true,
+                        "feedback_type": 
+                                                "incorrect"
+                                              ,
+                        "item_auto_width": false,
+                        "option_width":
+                                           null
+                                          ,
+                        "invert_position":
+                                                false
+                                              ,
+                        "sticky_options":
+                                                false
+                                              ,     
+                        "filed_theme": null,
+                        "position": null,
+                         
+                         "image_id": "LIC4KHRQAX6NUZENWCRCTYD5LFA",    
+                         "image_url":"./source/LIC4KHRQAX6NUZENWCRCTYD5LFA/equation.png",
+                         "width": 
+                                              null
+                                            ,
+                         "theme": "image_hotspot",
+                         "border": {
+                              "width": 0
+                                   },
+                        
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LNCVP7ZDJM5HEFPQZGCLRDZITUQ",
+                                   "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                            ]
+                            
+                        },
+                      
+                        "items": [
+                               
+                                  {
+                                   "item_id":1,
+                                   "coordinates": "12,2,79,47",
+                                    "shape": "square",
+                                   
+                  "answer_id": [
+                   1
+                    ]
+  ,
+
+                                            
+                                                 "feedback": {  
+                                                   "component_name": "section",
+                                                   "component_id": "",
+                                                   "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                                   }
+                                                
+                                   }
+                             ],
+
+
+                        "options": [
+                          
+                               {
+                                   "id": "LHBEPSYNTG4MURMWOJ7WQZR6V2I",
+                                  "description": "",
+                                   "option_id": 1,
+                                   "statement": {
+                                       "component_name": "section",
+                                       "component_id": "LFXU7XMMXQWLETCEQGEUENEPCBY",
+                                        "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                    }
+                                } ,
+                               {
+                                   "id": "LPHDJRJFIC3PU5ELTT3E3MIDPIY",
+                                  "description": "",
+                                   "option_id": 2,
+                                   "statement": {
+                                       "component_name": "section",
+                                       "component_id": "LFGIDZ5NULCXEFIDNU3ZUDX6SRI",
+                                        "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                    }
+                                }  
+                              ],
+
+                        
+
+
+                         "feedback": {
+                                   
+                                  },
+                         "hints": [
+                              
+                                      ],
+                         "submit": {
+                                          "text": "Submit"
+                                    }
+                                  }
+      ,
+                 "LG6AEAULFUWKEFCNHCLX536TAFE":{
+                         "type": "fib",
+                         "column": 0,
+                         "submit_counter": false,
+                         "submit_limit": 2,
+                         "feedback_type": 
+                                                "incorrect"
+                                              ,
+                         "item_auto_width": false,
+                     
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "L27W36QZ2XVNE3IXX2UUNA6SVTA",
+                                   "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                            ]
+                            
+                        },
+                      
+                           "sentence": {
+                           "id": "LIMF4LWZA357EXIBPSD4SDE5ATM",
+                           "content": [
+                              {
+                               "component_name": "html",
+                               "component_id": "LIMF4LWZA357EXIBPSD4SDE5ATM",
+                               "file_name": [ "html", "html_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                              }
+                              ]                    
+                        },
+                      
+                 
+                  "options": [
+                     
+                         {
+                          
+                                "option_id": 1,
+                             
+                                "id": "L2DSUNJMY25CUBI2G36CNNL3QFE",
+                        
+                        
+                             "answer": [
+                                                
+                                                   {   "id": "LHBDEIB2SCGBU5HRWIAQEDXTLVE",
+                                                        "optionvalue_id": "LW4JEUUK76YOEPKOJ7VITMQ7HAE",
+                                                        "input": "three",
+                                                         "equation": false,
+                                                         "case_sensitive":false
+                                                    } 
+                                          ],
+                              "feedback": {
+                                                 "component_name": "section",
+                                                 "component_id": "",
+                                                 "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+                          } ,
+                         {
+                          
+                                "option_id": 2,
+                             
+                                "id": "LX3QSVKZHTTEUJKCKBP7F5GVCOU",
+                        
+                        
+                             "answer": [
+                                                
+                                                   {   "id": "LAHGWEZVD7DLEPKDTIVW62MW3SA",
+                                                        "optionvalue_id": "L3SRJMYHAGOOELAX6DDGF6BBHEE",
+                                                        "input": "five",
+                                                         "equation": false,
+                                                         "case_sensitive":false
+                                                    } 
+                                          ],
+                              "feedback": {
+                                                 "component_name": "section",
+                                                 "component_id": "",
+                                                 "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+                          }  
+                        ],
+                         "feedback": {
+                                   
+                                  },
+                         "hints": [
+                              
+                                      ],
+                         "submit": {
+                                          "text": "Submit"
+                                    }
+                                  },
+                 "LRDCCRGOCEC4U5I3DVGQQBJFAQU":{
+                         "type": "fib",
+                         "column": 0,
+                         "submit_counter": false,
+                         "submit_limit": 2,
+                         "feedback_type": 
+                                                "incorrect"
+                                              ,
+                         "item_auto_width": false,
+                      
+                         "image_id": "LOA4IQF6KPGAETBKOT2TQLRW4ZY",      
+                         "image_url":"./source/LOA4IQF6KPGAETBKOT2TQLRW4ZY/equation.png",
+                         "width": 
+                                              null
+                                            ,
+                         "theme": "image_hotspot",
+                         "border": {
+                              "width": 0
+                                   },
+                    
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LLCQCRR6GK2XUDIK6TYDVPOJ6QA",
+                                   "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                            ]
+                            
+                        },
+                      
+                 
+                  "options": [
+                     
+                         {
+                          
+                                  "option_id": 1,
+                                  "description": "",
+                                      
+                                              "coordinates": "11,2,73,42",
+                                      
+                               
+                                "shape": "square",
+                            
+                                "id": "LH6VEWNXYOUCUDPOREV66NZW4I4",
+                        
+                        
+                             "answer": [
+                                                
+                                                   {   "id": "LVL2PSE56BXKUXNCDGA72AZZ6QU",
+                                                        "optionvalue_id": "LHSZ522O4Z7IERJL2DSERILJTFQ",
+                                                        "input": "3x",
+                                                         "equation": false,
+                                                         "case_sensitive":false
+                                                    } 
+                                          ],
+                              "feedback": {
+                                                 "component_name": "section",
+                                                 "component_id": "",
+                                                 "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+                          }  
+                        ],
+                         "feedback": {
+                                   
+                                  },
+                         "hints": [
+                              
+                                      ],
+                         "submit": {
+                                          "text": "Submit"
+                                    }
+                                  }
+
+   }
+}
+
+    

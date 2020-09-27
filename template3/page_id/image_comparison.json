@@ -1,0 +1,38 @@
+
+    {
+    "image_comparison": {
+             
+                "LURCROVJVS3OUNGJEI3DA4SU5UM":
+                 {
+                  "position": "right",
+                  "width":
+                                null
+                              ,
+                  "transparent": false,
+                  "border": {
+                              "width": 1,
+                              "color": "grey"
+                              },
+                  
+                   "front_image": {
+                   "component": {
+                                "component_name": "section",
+                                "component_id": "LNBTZXMPZFG2E7A42AJR4NPBAIM",
+                                "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                                  },
+                   "back_image":{ 
+                      "component": {
+                                    "component_name": "section",
+                                    "component_id": "LQUDFV3E5R3QEVAOBNTNZLXPORI",
+                                    "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                }
+                                },
+                  
+                   "handle_size": 50,
+                   "classes": "img-500"
+                  } 
+    }
+}
+
+    

@@ -1,0 +1,122 @@
+
+    {
+    "collapse": {
+             
+                "LKKNN5KOM2C7UBAWA5XPVUK5ETQ":
+                 {
+                  "multiple_open": false,
+                  "first_open":false,
+                  "direction": "vertical",
+                  "background":"",
+                  "component_color": "#F27F26",
+                  "items": [
+                           
+                              {
+                                  "collapse_id": 0,
+                                  "title": "Label 1",
+                                  "content": [
+                                      {
+                                          "component_name": "section",
+                                          "component_id": "LWWRRQ5GIMFCUXCUVQZHYVQST5M",
+                                          "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                      }
+
+                                  ]
+                              } 
+                          ,
+                              {
+                                  "collapse_id": 1,
+                                  "title": "Label 2",
+                                  "content": [
+                                      {
+                                          "component_name": "section",
+                                          "component_id": "LLJJUX4GFWIJU7IPHJ6F7L3KSTY",
+                                          "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                      }
+
+                                  ]
+                              } 
+                           
+                           ]
+                    }
+                ,
+                "L7R3O7BRILV5U3P676FKLIRTF6E":
+                 {
+                  "multiple_open": true,
+                  "first_open":false,
+                  "direction": "vertical",
+                  "background":"",
+                  "component_color": "#F27F26",
+                  "items": [
+                           
+                              {
+                                  "collapse_id": 0,
+                                  "title": "Label 1",
+                                  "content": [
+                                      {
+                                          "component_name": "section",
+                                          "component_id": "LOQC4NBHOT7UUBOPJRCTPN266RY",
+                                          "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                      }
+
+                                  ]
+                              } 
+                          ,
+                              {
+                                  "collapse_id": 1,
+                                  "title": "Label 2",
+                                  "content": [
+                                      {
+                                          "component_name": "section",
+                                          "component_id": "LTTUCHXTEJFKEVGPJNXA4O2ZFXY",
+                                          "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                      }
+
+                                  ]
+                              } 
+                           
+                           ]
+                    }
+                ,
+                "LE26UECRXCLEU7NQZRYZ5GNHIEQ":
+                 {
+                  "multiple_open": false,
+                  "first_open":false,
+                  "direction": "horizontal",
+                  "background":"",
+                  "component_color": "#F27F26",
+                  "items": [
+                           
+                              {
+                                  "collapse_id": 0,
+                                  "title": "Label 1",
+                                  "content": [
+                                      {
+                                          "component_name": "section",
+                                          "component_id": "LFPKCU3PHBCAEFDBMMH35VB57ZA",
+                                          "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                      }
+
+                                  ]
+                              } 
+                          ,
+                              {
+                                  "collapse_id": 1,
+                                  "title": "Label 2",
+                                  "content": [
+                                      {
+                                          "component_name": "section",
+                                          "component_id": "LQZMUU2PEMBPU5GP2CEDQHPR5QI",
+                                          "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                      }
+
+                                  ]
+                              } 
+                           
+                           ]
+                    }
+                
+    }
+ }
+
+    

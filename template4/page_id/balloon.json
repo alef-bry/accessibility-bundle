@@ -1,0 +1,372 @@
+
+    {
+    "game": {
+             
+                "LAJUENHYUT4PEVIPXJCXVTJJ4PM":
+                 {
+                  "type": "spin_wheel",
+                  "scoring_type":"proportional",
+
+                  
+                   "levels": [
+                   
+                    {
+                     "id":"LYZDLQ56ZOOOUHDRJVK6VO74ML4",
+                    "level_id": 0,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LLFAKL3XOPRXUJG5H3THDYMQFZE",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LUFFOZIL5RGSE3NOKBNGRME5EEE",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } ,
+                    {
+                     "id":"LRTHWU76XONWEDCBQBGTK24UOR4",
+                    "level_id": 1,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LHTGB3Y6LYDFU3PXNSZAKBHAQIY",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "L63ZABJKQSQRU5JLCO7UA3ZSCPY",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } 
+              ]
+                 
+                  }
+                ,
+                "LYEDVHZW3U3QEPNNU3ALGLAGNQY":
+                 {
+                  "type": "planet",
+                  "scoring_type":"proportional",
+
+                  
+                   "levels": [
+                   
+                    {
+                     "id":"LRWW3CH2ZNXIU3BSZUBBWES64XI",
+                    "level_id": 0,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LBVOZTGXW5AMEDJBACJMPJRK574",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "L2K35YJPNADBE3PJO4SW47ZZBMY",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } ,
+                    {
+                     "id":"LNUQMBW56S24ULLBEE2BYJXCHT4",
+                    "level_id": 1,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LQ7E6T4XNPWAUVKJTC7NJSXY4BM",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LV6MKGRVWZDHEPDUPC3PPNNIZEI",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } 
+              ]
+                 
+                  }
+                ,
+                "LD7QILUBF5REUZKHFOAGGFWDGY4":
+                 {
+                  "type": "balloon",
+                  "scoring_type":"proportional",
+
+                  
+                   "levels": [
+                   
+                    {
+                     "id":"L3MH4VE6W5K5EPHU2JLI5CUC5RA",
+                    "level_id": 0,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "L4XLL2XFOFFDUDFKO6DJUMRJ2GA",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "L3HINKXH62RZUFEPDMIA5S53ICU",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } ,
+                    {
+                     "id":"LLLYTK56OP3YUNKA3HX25M5EGMA",
+                    "level_id": 1,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LZATJW6R3SAVUFNKNOPFXBKXH3A",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LHVDQTPJLBVJEPBM6RYN4MKEFO4",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } 
+              ]
+                 
+                  }
+                ,
+                "LWIJFKEHKRQVE7MI7ZHQ7NLTNLI":
+                 {
+                  "type": "popping_matter",
+                  "scoring_type":"proportional",
+
+                  
+                   "levels": [
+                   
+                    {
+                     "id":"LCWVS7J3KWN6EZGNDQV3MEQQALQ",
+                    "level_id": 0,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LIPFGZ2GOOMFULLCYJF24FXHZVI",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "information",
+                            "item_icon": "",
+                            
+                                 "data": {
+                                        "component_name": "section",
+                                        "component_id": "LGZ7EZ7NQTS3E3JLTQ3P63DPD3A",
+                                        "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }  
+                                    
+                        } ,
+                        {
+                            "item_id": 2,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "L474VWPUOEQ5EXMFRI5MQZIB7RU",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 3,
+                            "item_type": "distractor",
+                            "item_icon": "",
+                            
+                                 "data":{}
+                                    
+                        } 
+                            ]
+                     } ,
+                    {
+                     "id":"LEPT4PN4NCYRENIQNLYXXPWS56E",
+                    "level_id": 1,
+                    "level_name": "",
+                    "scoring_system": {
+                        "max_score": 10,
+                        "partial_score": 8,
+                        "partial_score_2": 5
+                             },
+                    "items": [
+                    
+                        {
+                            "item_id": 0,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LFOXAQ35Z74UENKTQS3TS42TGGQ",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } ,
+                        {
+                            "item_id": 1,
+                            "item_type": "question",
+                            "item_icon": "",
+                            
+                                "data": {
+                                        "component_name": "question",
+                                        "component_id": "LPNT3Q2ASS6IEDEUWVIGNN7MWQY",
+                                        "file_name": [ "question", "question_VKKRNIKB55PU7M3IVGJMACHSAY"]
+                                    }
+                                     
+                        } 
+                            ]
+                     } 
+              ]
+                 
+                  }
+                
+    }
+ }
+
+    

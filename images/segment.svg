@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+    <title>3622606A-5C41-4136-A12E-EE82A9CF61CC</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="question-types-uis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Graph-/-Icons" transform="translate(-989.000000, -403.000000)">
+            <g id="frame">
+                <g id="graph" transform="translate(981.000000, 301.000000)">
+                    <g id="dot-connect" transform="translate(0.000000, 94.000000)">
+                        <g transform="translate(8.000000, 8.000000)">
+                            <line x1="29.2413793" y1="29.1428571" x2="2.75862069" y2="2.85714286" id="Line" stroke="#9CACB4" stroke-linecap="square"></line>
+                            <ellipse id="Oval" fill="#0079B5" cx="5" cy="5.17857143" rx="5" ry="5.17857143"></ellipse>
+                            <ellipse id="Oval-Copy" fill="#0079B5" cx="27" cy="26.1785714" rx="5" ry="5.17857143"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

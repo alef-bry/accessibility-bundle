@@ -1,0 +1,852 @@
+
+
+{
+   "chart": {
+     
+     
+       "LZZV54PSMI2SEXK6SQBXXLL2NWU" : {         
+          "type" : "bar",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value": "auto",
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LQ4UXV6KIOPNUZKAEPWULSRPT7I",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LK6HDGLA7TLKUXHVW3A3G32HS34",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  1 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LTOIW7IWNG2QEJFBIRCZ5L6TXX4",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  3 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LNU4QVVQGYD4U3NO7QEIRDTK6OQ",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  5 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LKHX55BKU2MREZBRBD636ILT46I",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  7 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "LK2FTGW6XOA6E5BRCXCPIWDC2S4" : {         
+          "type" : "bar",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": true,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : false,
+
+          "max_value": "auto",
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LK62QRDWGGNHEPHLZDBI7VS2POM",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LFLWZND2MDJDURBOWZBBPF6DW44",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  1 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LGEWIG2O76O5EXI5SWMV5V5KY6U",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  3 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LCHPT3D4EJIKUBKHJHO2IS435KU",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  5 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LJ3VVXAYF3Z3E5PCASFT34IDC34",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  7 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "LSQNLEKUTFFFERMCXRB3EDAFELE" : {         
+          "type" : "bar",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value":  10,
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 2,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LSIVI2HGSSO7EZLVI26MLZ33PBM",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LRQLDNQ5QXQEUFLKWWQZDCDFNQU",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  2 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LBAVEZF5AXU2UZKVPKG7DIAWOZU",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  2 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LTWLHYN4AEVME3G5BXKQVH6ZLLE",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  2 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LAU5E5EAE7XVEBNCFE6FT7WMYNQ",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  2 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "LUKN5NRO2PRMEJES47O7ZLWCUIY" : {         
+          "type" : "bar",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value": "auto",
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "L2CRAY6TVUKDEFF3RFWGB72JWU4",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"L53YMUGRUWQZUVFJDVFNCT7GN2M",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  1 ,
+             "color": null ,
+             "is_interactive": false
+
+            }
+            ,
+           {
+             "id":"L4ARDSNHK25LETDC5H632VECICU",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  3 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LTIGSMFI37BVEDHTSHW3DQJAYO4",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  5 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"L6ZXXTMMHZN4UJGN26CFZSRTZSI",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  7 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "L45UIZGNICQFUVFQ6J7JL5WLLAQ" : {         
+          "type" : "line",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value": "auto",
+
+         "min_value" :   "auto",
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LVTTOTTJPSOAEHDJ4FJOOPJZ7BI",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LI4LPO4GJHCUEZOPQWYTEOLDVQQ",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  1 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LEWUQJA3QZWYUDJYW4YWWF5HRPA",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  3 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LDSCLQT4V4H7ENDD3WYLR56TIKU",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  5 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LUEFDQZTPHPUEXLROPI2YP6FXUI",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  7 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "LB2F6WFNCQ4BUXDWUVPT5UNAAS4" : {         
+          "type" : "histogram",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value": "auto",
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LC23EYWNLIBTURNQ5YKOUGECMBU",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LRJJMH2VFAY4U3BDK5A4RWLEERI",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  1 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LCOTGDADU7CQEZGH7RJBWIJZBDY",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  3 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"L2B76MGV42YJE3N4NC4FR53XP44",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  5 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LVBAKGIUNFXAE7JL7ZHH3MGDY2M",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  7 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "L6S7NJMFYJZLUJAID2WYAZACDTU" : {         
+          "type" : "dot",
+          "y_axis_label": "Quantity",
+          "x_axis_label" : "Year",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value": "auto",
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 10,
+         "x_min_value": -10,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LB4TJ6GUNJ5NUJLGGUOVCW64WEA",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LAEPXJZKTHMQE3E6R42UKDIGNHU",
+             "bar_id": 0 ,
+            
+             "label" : 
+                                "2004"
+                          ,
+             "value":  4,  
+             "initial_value":  1 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LDSZ5ODBI4MAUPHJMR7PR5QKZEI",
+             "bar_id": 1 ,
+            
+             "label" : 
+                                "2008"
+                          ,
+             "value":  8,  
+             "initial_value":  3 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LU2HXEITHBWFEHHBUQRMNDUTZY4",
+             "bar_id": 2 ,
+            
+             "label" : 
+                                "2012"
+                          ,
+             "value":  2,  
+             "initial_value":  5 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"L2HID3CPOGWEE5H4IBONUP5AXU4",
+             "bar_id": 3 ,
+            
+             "label" : 
+                                "2016"
+                          ,
+             "value":  4,  
+             "initial_value":  7 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       ,
+       "L6LGZMHF2NFOUDFFAYJ4GGHQC6M" : {         
+          "type" : "plot",
+          "y_axis_label": "Y-axis",
+          "x_axis_label" : "X-axis",
+          "x_grid_on": false,
+          "y_grid_on" : true,
+          "x_label_on": true,
+          "y_label_on" : true,
+
+          "max_value": "auto",
+
+         "min_value" :   
+                              0
+                            ,
+         "height": 500,
+         "x_max_value": 4,
+         "x_min_value": -4,
+         "x_value_interval": 1,
+         "value_intervals": 1,
+         "submit_counter": true,
+         "submit_limit": 1,
+         "feedback_type": 
+                                  "both"
+                            ,
+              
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LA7UABA3EB7GUJNEZE54LCYTMCE",
+                                     "file_name": [ "section", "section_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]
+                                }
+                            ]
+                            
+                        },
+             
+        "data": [
+          
+           {
+             "id":"LGBC7BLDKJG2URDEV44MIL222R4",
+             "bar_id": 0 ,
+            
+             "label" : 0,
+             "value":  1,  
+             "initial_value":  0 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LAKUMRXMNT3TEFP3W2BY7SKF7YY",
+             "bar_id": 1 ,
+            
+             "label" : 1,
+             "value":  3,  
+             "initial_value":  0 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LNJJVMQKW4L5ELPJ2U7BTXPLQJY",
+             "bar_id": 2 ,
+            
+             "label" : 2,
+             "value":  5,  
+             "initial_value":  4 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LEZTYZJKP72QUNOZOJMQTITBPHM",
+             "bar_id": 3 ,
+            
+             "label" : 3,
+             "value":  7,  
+             "initial_value":  0 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            ,
+           {
+             "id":"LTHY5CE7GJOJUFJL434JG4WDPXE",
+             "bar_id": 4 ,
+            
+             "label" : 4,
+             "value":  9,  
+             "initial_value":  0 ,
+             "color": null ,
+             "is_interactive": true
+
+            }
+            
+
+        ],
+                      "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                           ]
+
+       }
+       
+   
+   }
+}
+   

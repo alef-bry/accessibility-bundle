@@ -1,0 +1,218 @@
+
+    {
+    "tab": {
+             
+                    "LAZSAMWA4SEAU7MDUWSLICXV6ZQ":
+                     {
+                      "type": "normal",
+                      "position": "top",
+                       "height": 0,
+                       "adaptive_height": false,
+                       "background":"",
+                       "component_color": "#F27F26",             
+                                
+                      "items": [
+                               
+                                  {
+                                      "tab_id": 0,
+                                      "title": "Label 1",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LT3NHR2GMBMEU3HHOO5TI3FV5CQ",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "tab_id": 1,
+                                      "title": "Label 2",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LSALYEEUZ3KHU3HVLQNV7E5QCVQ",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                               
+                               ]
+                            }
+              ,
+                    "L2YVPCHID6G2UPOTA7RRO4SCF2U":
+                     {
+                      "type": "tab-linked",
+                      "position": "top",
+                       "height": 0,
+                       "adaptive_height": false,
+                       "background":"",
+                       "component_color": "#F27F26",             
+                                
+                      "items": [
+                               
+                                  {
+                                      "tab_id": 0,
+                                      "title": "Label 1",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LVCTYUIY344CU3PSFOOOZJOZQZU",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "tab_id": 1,
+                                      "title": "Label 2",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LFZWTUYZ7Q2QU5C5ZFAV7YUG7BQ",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                               
+                               ]
+                            }
+              ,
+                    "LPY5ITE6X7L7UBGE74IBHTYOFYQ":
+                     {
+                      "type": "normal",
+                      "position": "left",
+                       "height": 0,
+                       "adaptive_height": false,
+                       "background":"",
+                       "component_color": "#F27F26",             
+                                
+                      "items": [
+                               
+                                  {
+                                      "tab_id": 0,
+                                      "title": "Label 1",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "L2FW5JOYBRQIUZH3WRNCN4KXXEY",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "tab_id": 1,
+                                      "title": "Label 2",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LJQSNO6A2WXQE3A5CXZX4CIIJDY",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                               
+                               ]
+                            }
+              ,
+                    "LLSOP25TXFXLEHFL2N3ZXJR7UZ4":
+                     {
+                      "type": "normal",
+                      "position": "right",
+                       "height": 0,
+                       "adaptive_height": false,
+                       "background":"",
+                       "component_color": "#F27F26",             
+                                
+                      "items": [
+                               
+                                  {
+                                      "tab_id": 0,
+                                      "title": "Label 1",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LWFKYUL3ARKZUDGTJMIIVIKV5B4",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "tab_id": 1,
+                                      "title": "Label 2",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LJ3UROI2TGBOERKJVKDZ7OF2LV4",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                               
+                               ]
+                            }
+              ,
+                    "L6XO3DS2FEYDEFPM5QEHD3PMSLY":
+                     {
+                      "type": "normal",
+                      "position": "bottom",
+                       "height": 0,
+                       "adaptive_height": false,
+                       "background":"",
+                       "component_color": "#F27F26",             
+                                
+                      "items": [
+                               
+                                  {
+                                      "tab_id": 0,
+                                      "title": "Label 1",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LTOB5EU7SDRHEVATRIC2YZACSDE",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "tab_id": 1,
+                                      "title": "Label 2",
+                                      "icon":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "L63R7XJGR3UIE5LZ6VWFXDRZB2U",
+                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
+                                          }
+
+                                      ]
+                                  } 
+                               
+                               ]
+                            }
+              
+    }
+}
+
+    
