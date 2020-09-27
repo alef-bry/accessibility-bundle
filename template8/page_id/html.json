@@ -442,6 +442,15 @@
                             }
                              
                         }
+                      ,
+                
+                      "LOCZL7YMOZ4HENGJSKIBL3CJLQU": {
+                            "data": {
+                                "content": " <div dir=\"rtl\" style=\"text-align:center\"><span class=\"math-tex\">\\(x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}\\)</span></div> ",
+                                "classes": "html-content-text"
+                            }
+                             
+                        }
                       
          }
       }

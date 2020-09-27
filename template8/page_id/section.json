@@ -1850,6 +1850,42 @@
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
+                            }, 
+                       
+                  "L5V6INMRPLTLU7FGYBG76LONO5U": {
+                   "title": "Mathjax",
+                        
+                                   "left": {
+                                        "icon": "calculate",
+                                        "title":" Mathjax"
+                                                },
+                                
+                                "indent": 
+                                                   null
+                                                  ,
+                                "classes": "",
+                                            
+                                  
+
+                                "columns": [
+                                  
+                                    {   "alignment": 
+                                                       null
+                                                      ,
+                                        "vertical_align":
+                                                             null
+                                                            ,
+                                        "col_width": "auto",
+                                        "indent": 
+                                                     null
+                                                    ,
+                                        "column_border": 
+                                                             null
+                                                            ,
+                                        "column_id": "LFGYJVOAPN23ETEH64VBT235YNE",
+                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
+                                    }
+                                ]
                             }
                         }
                     }
