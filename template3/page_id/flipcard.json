@@ -5,7 +5,7 @@
                 "LFKATLRVVLY4UTPWEBOGJMRKJRQ":
                  {
                   "columns":  4,
-                  "description":"",
+                  "description":"Single flipping allowed.",
                   "multiple_open":   false,
                   "flip_direction": "top",
                   "height": 300,
@@ -121,7 +121,7 @@
                 "L2CKI4JOZO2KULDLF3IR2OCIWNI":
                  {
                   "columns":  4,
-                  "description":"",
+                  "description":"Multiple card open allowed.",
                   "multiple_open":   true,
                   "flip_direction": "top",
                   "height": 300,
