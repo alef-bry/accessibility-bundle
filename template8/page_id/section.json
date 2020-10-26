@@ -479,12 +479,12 @@
                                 ]
                             }, 
                        
-                  "LC6QYG5F3WEGU7P7MCJQZ7LLBVE": {
-                   "title": "Progress chart adaptive height",
+                  "LLI6R3RXZPYXEFM2ZV6LE2QQORQ": {
+                   "title": "Progress chart default",
                         
                                    "left": {
-                                        "icon": "calculate",
-                                        "title":" Progress chart adaptive height false"
+                                        "icon": "cause-effect",
+                                        "title":" Progress chart default"
                                                 },
                                 
                                 "indent": 
@@ -509,13 +509,13 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LQSVKR4VAHRKENOTSWVTF3OXR7Y",
+                                        "column_id": "LMDCCFAA5VLRE3JSDPHVENBJ7YE",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
                             }, 
                        
-                  "LWS36ZQOH4MNUJHCL5SBTZDD2OY": {
+                  "LYW35PJGY7VCEHOBTJMYAPU56QY": {
                    "title": "",
                         
                                 "indent": 
@@ -540,13 +540,13 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LRMLUTXDORE3UTDH7JEP4ZVLF74",
+                                        "column_id": "LAB6GCAHQV3MEVIAAHIWI2TYDHU",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
                             }, 
                        
-                  "LGNJ2GBMIKDNUFG3HL6JJL32SHQ": {
+                  "LTH6KI4427P4ENKNN54JZZ3D3II": {
                    "title": "",
                         
                                 "indent": 
@@ -571,13 +571,13 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LLEKWMPLHLKYELOGGXZJJDWWMYY",
+                                        "column_id": "LGRHW3NGQBYCUHAY4OIJG3HHX4E",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
                             }, 
                        
-                  "LMSTY7PG6PGOEVMJV7MBND7WAEU": {
+                  "L7SBVYELEZMEEZLVGSMSNDYXSPE": {
                    "title": "",
                         
                                 "indent": 
@@ -602,13 +602,13 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LIKW374NEAW2UJO6XRNFU7GW3EA",
+                                        "column_id": "LKD7HULV7ZHSEVFCWFXCADJPZCQ",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
                             }, 
                        
-                  "L7RPOZ7MGXQWUNOZK6QLPSSQ4Y4": {
+                  "LNXX647SSDXFULHTCK2WKIGXFDA": {
                    "title": "",
                         
                                 "indent": 
@@ -633,13 +633,13 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LRNZ2LTADSZQUPGEUYQYJK2GO5I",
+                                        "column_id": "LTICTFXBRFCOE5HKD7PDJ5JOWFE",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
                             }, 
                        
-                  "L7EYEUPHO4PMEBAI2NGOILP45CE": {
+                  "L4RELNVAGDZBUFHULCYW44GMGTY": {
                    "title": "",
                         
                                 "indent": 
@@ -664,13 +664,13 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LXRRVMQQXS6CUVGK3757EFMQNYA",
+                                        "column_id": "LF3EDKYHMCC7EFPQKXOP6UFEREI",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]
                             }, 
                        
-                  "LJFANVVUISYMU5GK5MDBPCRVJQI": {
+                  "L7PJG4ZROZGUEZHYI5FI3MULNJI": {
                    "title": "",
                         
                                 "indent": 
@@ -695,451 +695,7 @@
                                         "column_border": 
                                                              null
                                                             ,
-                                        "column_id": "LRVL6PEUSZC4UBNCYLK6QSXTE6Y",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LK5KFXJFZUG2UZLXUDJLCPUBQZY": {
-                   "title": "Progress chart interactive",
-                        
-                                   "left": {
-                                        "icon": "stream",
-                                        "title":"Progress chart interactive"
-                                                },
-                                
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "12",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LLON4PTZP37LUDK4HJ3OL3SQ3ZI",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "L62IQXXN4GGZEPI2Z2BXWYGCYQY": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LVEXMVHPOJ7XEHLKAJOI64SBFVA",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LSOUZY3D3UMXUBAW4ODPGB3MDEE": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "L6ZFTPKA5M4BEFBY32F7ZSN3EKA",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LWDKGTQMVUUYEXGXBFDTA2IIGOI": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LPQIK3GBIKGNURLJ7MOU4VMLFRI",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "L347VO7YUEPLEFIKES55BMCTBMY": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LTS7B6HITWHUUDG66AZYK2LXUTQ",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LWXRF62BCYDXEZDBG7H4BBKD2H4": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LU5DD7G674VOEJG4TP66TNORYOI",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "L3RQI2JN4FL6ULHZ7GRRROHGOLA": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LIBOIWNHAFRDURCPVE34QLWW2KU",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "L5DW7TOLPVBKULIF4SVUQVOBPWM": {
-                   "title": "Progress chart sticky comments",
-                        
-                                   "left": {
-                                        "icon": "connect",
-                                        "title":" Progress chart sticky comments"
-                                                },
-                                
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "12",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "L5334FPHQ3F6EJJKJ6TWTDRVZWM",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LK6VRDQJQGDIUFOR4V3HYJPH73A": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LQFB3LURSXZ2EPC6VCA6UHI2PL4",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LICU3HYK25QJE3LJWTRPM3TRWYE": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LTG6Z4KA6JAUUXCARCB2DFUZOTY",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LCGJFWAAX4STUZIUL5FRXZOSEUE": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LCYLTD7VQ75VUBNRGLF6ADJBEHQ",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LW6LIQGWVYKVEBANV4OFZF3B7BA": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LE3TICAB2WV3UVMFXZILMNX5RME",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LMVN3ZMJAR4AUHDA5OL4L4VUFME": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LUUGWZ3XVSU6EZHMSQXSL2G4PXE",
-                                        "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LHTOFMX5O2NMUFIWUVDF73FQLL4": {
-                   "title": "",
-                        
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LLPXUF5FZN7SUJCDU2BAXZRVKHE",
+                                        "column_id": "LFAJHEMJG6E2UDLD36E6BHBQH7A",
                                         "file_name": [ "column", "column_42UMTMRAOAMUFNBWN6VFDTICMM"]
                                     }
                                 ]

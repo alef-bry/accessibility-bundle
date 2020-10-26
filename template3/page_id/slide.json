@@ -10,7 +10,8 @@
                       "height": 0,
                       "adaptive_height": true,
                       "component_color": "#F27F26",
-                      "nav_position": "top",        
+                      "nav_position": "top",
+                      "title": "",      
                       "items": [
                                
                                   {
@@ -78,7 +79,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LEFDBCSABM37U5LXUSND3IZ4QGE",
+                                              "component_id": "L4CNR4LVGDOJEXKBNUPPLUL7VIY",
                                               "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
                                           }
 
@@ -90,7 +91,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LJMFFV5DKOF7ELCGHAWXHF5ED54",
+                                              "component_id": "LA7F35K6QFPXENFDXZKCLCXA6WI",
                                               "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
                                           }
 
@@ -102,7 +103,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "L4CNR4LVGDOJEXKBNUPPLUL7VIY",
+                                              "component_id": "L2EQ5WHHO7SREDFYDS5G4S6YGJA",
                                               "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
                                           }
 
@@ -114,30 +115,6 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LA7F35K6QFPXENFDXZKCLCXA6WI",
-                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 9,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "L2EQ5WHHO7SREDFYDS5G4S6YGJA",
-                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 10,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
                                               "component_id": "LZLOPNIG3SVDE3JT76IGPNI6USM",
                                               "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
                                           }
@@ -146,7 +123,7 @@
                                   } 
                               ,
                                   {
-                                      "slide_id": 11,
+                                      "slide_id": 9,
                                       "content": [
                                           {
                                               "component_name": "section",
@@ -168,7 +145,8 @@
                       "height": 0,
                       "adaptive_height": false,
                       "component_color": "#F27F26",
-                      "nav_position": "top",        
+                      "nav_position": "top",
+                      "title": "Sample label of a normal slider.",      
                       "items": [
                                
                                   {
@@ -206,7 +184,8 @@
                       "height": 0,
                       "adaptive_height": false,
                       "component_color": "#F27F26",
-                      "nav_position": "top",        
+                      "nav_position": "top",
+                      "title": "Sample label of an advanced slider.",      
                       "items": [
                                
                                   {
@@ -227,82 +206,6 @@
                                           {
                                               "component_name": "section",
                                               "component_id": "LS2OPWC7ZBFMUBE7YX7734RZFWY",
-                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                          }
-
-                                      ]
-                                  } 
-                               
-                               ]
-                            }
-               ,
-                     "LFTJBRTJR3WKEJOBVT44I5GMO4Q":
-                      {
-                      "background":"",
-                      "animation": "slide",
-                      "type": "advance",
-                      "height": 0,
-                      "adaptive_height": false,
-                      "component_color": "#F27F26",
-                      "nav_position": "right",        
-                      "items": [
-                               
-                                  {
-                                      "slide_id": 0,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "L6HVPOQLBWIQULIT3X7I662XQEI",
-                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 1,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "LMTRRK2PBGNXUVCYS4LGOFTPJWM",
-                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                          }
-
-                                      ]
-                                  } 
-                               
-                               ]
-                            }
-               ,
-                     "LHRHUMIAHYOMU7MS4L4O4DF5PMI":
-                      {
-                      "background":"",
-                      "animation": "slide",
-                      "type": "advance",
-                      "height": 0,
-                      "adaptive_height": false,
-                      "component_color": "#F27F26",
-                      "nav_position": "left",        
-                      "items": [
-                               
-                                  {
-                                      "slide_id": 0,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "L6FJLV4JDX56U7DT5E4T42FLA3M",
-                                              "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 1,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "LG2HWF7MK3M5EHJEZWPJNCZZ2Z4",
                                               "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
                                           }
 

@@ -10,7 +10,8 @@
                       "height": 0,
                       "adaptive_height": true,
                       "component_color": "#F27F26",
-                      "nav_position": "top",        
+                      "nav_position": "top",
+                      "title": "",      
                       "items": [
                                
                                   {
@@ -30,7 +31,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "L2HV62LI5AFPUZAL2YA2UDBJLUI",
+                                              "component_id": "LH7PHO3A5JOAE5J2L6735EWSCZ4",
                                               "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
                                           }
 
@@ -42,7 +43,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LITFOF57IKFWEBIVGXBFBGQX6XE",
+                                              "component_id": "L5CNCSIJVB66UDE45WELYS2H62I",
                                               "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
                                           }
 
@@ -54,7 +55,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LWTDK7GPU6CKUVDYF67C7HDIPWA",
+                                              "component_id": "L5YTNNFGRSAQUVOD63OOPDUZ37U",
                                               "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
                                           }
 
@@ -66,54 +67,6 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LL6ASIDLT6TWENAQR4RNLH5CWOU",
-                                              "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 5,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "LH7PHO3A5JOAE5J2L6735EWSCZ4",
-                                              "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 6,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "L5CNCSIJVB66UDE45WELYS2H62I",
-                                              "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 7,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
-                                              "component_id": "L5YTNNFGRSAQUVOD63OOPDUZ37U",
-                                              "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
-                                          }
-
-                                      ]
-                                  } 
-                              ,
-                                  {
-                                      "slide_id": 8,
-                                      "content": [
-                                          {
-                                              "component_name": "section",
                                               "component_id": "LR4ZNRY4Z27XEBLZ3MEBFFE6ZLI",
                                               "file_name": [ "section", "section_VKKRNIKB55PU7M3IVGJMACHSAY"]
                                           }
@@ -122,7 +75,7 @@
                                   } 
                               ,
                                   {
-                                      "slide_id": 9,
+                                      "slide_id": 5,
                                       "content": [
                                           {
                                               "component_name": "section",

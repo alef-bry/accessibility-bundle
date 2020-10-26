@@ -10,7 +10,8 @@
                       "height": 0,
                       "adaptive_height": true,
                       "component_color": "#F27F26",
-                      "nav_position": "top",        
+                      "nav_position": "top",
+                      "title": "",      
                       "items": [
                                
                                   {
@@ -30,7 +31,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "L245E6P3UH5OE7HLJPFOMDBFBLM",
+                                              "component_id": "LPVOKXQQ5NG4EVGRNU6HGDY3MUU",
                                               "file_name": [ "section", "section_7H42UVS3MALULLR23NS63FN25Q"]
                                           }
 
@@ -42,7 +43,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LPXPIXHJ6JKTENLLAKRFZXGUWKY",
+                                              "component_id": "LRNVQVG6RTCHE3GVLXJCRQDIAII",
                                               "file_name": [ "section", "section_7H42UVS3MALULLR23NS63FN25Q"]
                                           }
 
@@ -54,7 +55,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LGSV363UDK4NENBS5OUXKQMJBTY",
+                                              "component_id": "LOGUS2OQFYLUUJOC3TMFQTWNXBI",
                                               "file_name": [ "section", "section_7H42UVS3MALULLR23NS63FN25Q"]
                                           }
 
@@ -66,7 +67,7 @@
                                       "content": [
                                           {
                                               "component_name": "section",
-                                              "component_id": "LLJ7323MXAE7ELAELQJH6LBEVVU",
+                                              "component_id": "LROGAOKTRJYFU7IPAE5QYFQVTYA",
                                               "file_name": [ "section", "section_7H42UVS3MALULLR23NS63FN25Q"]
                                           }
 

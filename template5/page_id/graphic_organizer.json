@@ -4,8 +4,9 @@
              
                 "LVDKCJ2OX35YUREXYYP7PAPGDDQ":
                  {
+                  "title":"",
                   "image_id":"LJGIENWS3HYFUVBY774Z74NDSM4",
-                  "url":"../../source/LJGIENWS3HYFUVBY774Z74NDSM4/screenshot-app.zeplin.io-2019.10.31-15-12-42.png",
+                  "url":"./source/LJGIENWS3HYFUVBY774Z74NDSM4/screenshot-app.zeplin.io-2019.10.31-15-12-42.png",
                   "width":
                                     null
                                   , 
@@ -27,7 +28,8 @@
                    "hotspot_id": 0,
                    "coordinates": "65,350,172,394",
                    
-                         "id": "LGFT3JASCLXUEZFX3JXOYNOWII4",
+                         "label":"Time 1",
+                         "id": "LRLXRRN6AHZMU5KINMCBL2CPXLI",
                          "hotspot_name": "",
                          "multiline":false
                    },
@@ -35,7 +37,8 @@
                    "hotspot_id": 1,
                    "coordinates": "283,149,387,191",
                    
-                         "id": "L6HC7WYCXETHEJNXNZNOAKS567Q",
+                         "label":"Time 2",
+                         "id": "LIECRP7BP6WFEBKKU4RZYIDONFI",
                          "hotspot_name": "",
                          "multiline":false
                    },
@@ -43,7 +46,8 @@
                    "hotspot_id": 2,
                    "coordinates": "497,351,605,395",
                    
-                         "id": "LKYE7TBBGBP2ETJPTQS6AXQCLZM",
+                         "label":"Time 3",
+                         "id": "LBYILMYLAGC4U7LCXZPGQACLD4Q",
                          "hotspot_name": "",
                          "multiline":false
                    },
@@ -51,7 +55,8 @@
                    "hotspot_id": 3,
                    "coordinates": "714,147,822,191",
                    
-                         "id": "LGMBU6UIDGRCEXHOA7PTQOHDJAU",
+                         "label":"Time 4",
+                         "id": "LL6POEGNJFIDE7NITSHF7LRN4RA",
                          "hotspot_name": "",
                          "multiline":false
                    },
@@ -59,7 +64,8 @@
                    "hotspot_id": 4,
                    "coordinates": "927,350,1035,394",
                    
-                         "id": "LKF77APDR2K7UPGLG7NIPNGCSEY",
+                         "label":"Time 5",
+                         "id": "LEFATQQYAVTCUJIHAWP57AWHNMY",
                          "hotspot_name": "",
                          "multiline":false
                    },
@@ -67,7 +73,8 @@
                    "hotspot_id": 5,
                    "coordinates": "11,13,227,216",
                    
-                         "id": "LYA3YU32BB3EEJKIOI2NXXUW5AU",
+                         "label":"Time 1 description",
+                         "id": "LSKERL5CRP7CULCUZFI5MAJE66Y",
                          "hotspot_name": "",
                          "multiline":true
                    },
@@ -75,7 +82,8 @@
                    "hotspot_id": 6,
                    "coordinates": "227,294,441,497",
                    
-                         "id": "LLQGCFSVAQRYUJHKERZ2BE762AA",
+                         "label":"Time 2 description",
+                         "id": "LGH6XML3AYZYEJKMSKJDDWCQBBY",
                          "hotspot_name": "",
                          "multiline":true
                    },
@@ -83,7 +91,8 @@
                    "hotspot_id": 7,
                    "coordinates": "445,14,658,218",
                    
-                         "id": "L2JMNVHQEP2CUBHINPFJL67Y52M",
+                         "label":"Time 3 description",
+                         "id": "LUVHV7LHFRAQURKVIEPXZOX6KTU",
                          "hotspot_name": "",
                          "multiline":true
                    },
@@ -91,7 +100,8 @@
                    "hotspot_id": 8,
                    "coordinates": "876,13,1091,218",
                    
-                         "id": "LG6TR665HMAIUXDJ46J6DBQYYSQ",
+                         "label":"Time 5 description",
+                         "id": "LRERIOII2HVGUXHMZQGJD2GUQ3I",
                          "hotspot_name": "",
                          "multiline":true
                    },
@@ -99,7 +109,8 @@
                    "hotspot_id": 9,
                    "coordinates": "661,294,876,497",
                    
-                         "id": "LYP5EW7EHD44URARF2N4J4X5LCE",
+                         "label":"Time 4 description",
+                         "id": "LRJBMSJ2RII5EBKHLIM6VR6GN5I",
                          "hotspot_name": "",
                          "multiline":true
                    }

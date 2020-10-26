@@ -3,6 +3,15 @@
       "html": {
                   
                 
+                      "LC2GDKLBORJSUZOTYTUEY45IFTY": {
+                            "data": {
+                                "content": "Complete the sentence.",
+                                "classes": "html-content-text"
+                            }
+                             
+                        }
+                      ,
+                
                       "LYDDSEWXHIP7U7CU6RJJWVZAOTU": {
                             "data": {
                                 "content": "One, two, [dropdown id={1}], four and [dropdown id={2}]",
@@ -48,6 +57,15 @@
                         }
                       ,
                 
+                      "LO426ZQMOK7GENHUM5PC3HMZJ2A": {
+                            "data": {
+                                "content": "Complete the sentence.",
+                                "classes": "html-content-text"
+                            }
+                             
+                        }
+                      ,
+                
                       "LIMF4LWZA357EXIBPSD4SDE5ATM": {
                             "data": {
                                 "content": "one, two, [fib id={1}], four, [fib id={2}]",
@@ -69,6 +87,15 @@
                       "LAHGWEZVD7DLEPKDTIVW62MW3SA": {
                             "data": {
                                 "content": "five",
+                                "classes": "html-content-text"
+                            }
+                             
+                        }
+                      ,
+                
+                      "LSMJ7II4ENWCE3IUV3OLM27Q4JU": {
+                            "data": {
+                                "content": "Complete the sentence.",
                                 "classes": "html-content-text"
                             }
                              
@@ -102,6 +129,15 @@
                         }
                       ,
                 
+                      "L7YE32WJMZG3EVNNYY3RESNUM2I": {
+                            "data": {
+                                "content": "Complete the equation.",
+                                "classes": "html-content-text"
+                            }
+                             
+                        }
+                      ,
+                
                       "L23FL5SEN46KEVE2CL7RYRLM52A": {
                             "data": {
                                 "content": "3x",
@@ -114,6 +150,15 @@
                       "LDZZIQWHN6SFEJLQ2MQJ6NTMR7Y": {
                             "data": {
                                 "content": "3z",
+                                "classes": "html-content-text"
+                            }
+                             
+                        }
+                      ,
+                
+                      "LK7HMTFSEZMSUJOC7CYNPA7OUWI": {
+                            "data": {
+                                "content": "&nbsp;Complete the equation.<br/> &nbsp;",
                                 "classes": "html-content-text"
                             }
                              
@@ -138,43 +183,7 @@
                         }
                       ,
                 
-                      "LZMDAV34OBAGUNAWMM7M2FMWAH4": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse deserunt explicabo eveniet iure quas distinctio quis voluptatibus, nihil repellat sapiente quae rerum assumenda nesciunt ipsam. A, aperiam? Reiciendis, nobis dolorem?",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LBGP6QF6X74CU3MG7K6GY4HBDAA": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse deserunt explicabo eveniet iure quas distinctio quis voluptatibus, nihil repellat sapiente quae rerum assumenda nesciunt ipsam. A, aperiam? Reiciendis, nobis dolorem?",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LVJXHQR4MYIQUTFAD4S43M7TNFY": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse deserunt explicabo eveniet iure quas distinctio quis voluptatibus, nihil repellat sapiente quae rerum assumenda nesciunt ipsam. A, aperiam? Reiciendis, nobis dolorem?",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
                       "LXZQSU4RYFKQE5O36T724HHPJA4": {
-                            "data": {
-                                "content": "This is a test interactivity/info. Please proceed.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LXSNPIEKZKVSULIJZCP7X77OE4I": {
                             "data": {
                                 "content": "This is a test interactivity/info. Please proceed.",
                                 "classes": "html-content-text"
@@ -193,42 +202,6 @@
                       ,
                 
                       "LQ52UBTSIXIJUTPH67RGVAQQTLI": {
-                            "data": {
-                                "content": "Content for breakpoint goes here...",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LQ4VHQBUPXQ3URD7KKRARHKVJ4A": {
-                            "data": {
-                                "content": "Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet&nbsp;consectetur,&nbsp;adipisicing&nbsp;elit.&nbsp;<br/> Voluptas&nbsp;similique&nbsp;incidunt&nbsp;nemo&nbsp;esse&nbsp;quaerat&nbsp;qui&nbsp;explicabo.<br/> Ratione&nbsp;unde&nbsp;voluptatem&nbsp;nulla&nbsp;sequi&nbsp;ipsam&nbsp;libero&nbsp;est&nbsp;quasi&nbsp;omnis&nbsp;dolore,&nbsp;atque&nbsp;laborum&nbsp;eaque?",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LQ6YIKFZB2TJEFPDOKRNAL75QTI": {
-                            "data": {
-                                "content": "Content for breakpoint goes here...",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LATCXDMZHUVAUFCESA37EQ7MOEI": {
-                            "data": {
-                                "content": "Content for breakpoint goes here...",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LXPTDPRKUIFEUPPIA4GWD4ZXW7Q": {
                             "data": {
                                 "content": "Content for breakpoint goes here...",
                                 "classes": "html-content-text"
@@ -258,78 +231,6 @@
                       "LJWEYMRU4CKAEXIGOJOXUE4VSC4": {
                             "data": {
                                 "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste accusantium voluptatum veritatis impedit sit, magnam dolorum ipsam quam ad eveniet voluptates nostrum quia commodi dignissimos vero minima. Consequatur, rem amet.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LVCNY7WPLXIDEBO75DDJIVKTA4U": {
-                            "data": {
-                                "content": "Title here",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LV3HVIC2WK6WEPDQ2HPSCYGVCOE": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore voluptas.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "L2I5RNFSGCZ2EZHF7CXJGQRLW4E": {
-                            "data": {
-                                "content": "Title here",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LXOR6ZCITEFGELL26JKGIEN5XRQ": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore voluptas.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LUCJS2H6UPAYEBBX5WKQDDQ3NVE": {
-                            "data": {
-                                "content": "Title here",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LF3HPCOMI7RBEFG5LCXJMMRWHSM": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore voluptas.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LYBDJL6COKCIEDG6FCH5O6GB2OM": {
-                            "data": {
-                                "content": "Title here",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LEHAR5MS42DIEVJ26JAZQUAOSUE": {
-                            "data": {
-                                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore voluptas.",
                                 "classes": "html-content-text"
                             }
                              
@@ -490,24 +391,6 @@
                       ,
                 
                       "LXAGSZ5DR4AJEZNFS7KPIO2DIPA": {
-                            "data": {
-                                "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste accusantium voluptatum veritatis impedit sit, magnam dolorum ipsam quam ad eveniet voluptates nostrum quia commodi dignissimos vero minima. Consequatur, rem amet.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LIB2ZE6UG4ZBUJCCVCJY5SFS6Z4": {
-                            "data": {
-                                "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste accusantium voluptatum veritatis impedit sit, magnam dolorum ipsam quam ad eveniet voluptates nostrum quia commodi dignissimos vero minima. Consequatur, rem amet.",
-                                "classes": "html-content-text"
-                            }
-                             
-                        }
-                      ,
-                
-                      "LJKWKTXZ75OHEPNHGYEDMA73JIM": {
                             "data": {
                                 "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste accusantium voluptatum veritatis impedit sit, magnam dolorum ipsam quam ad eveniet voluptates nostrum quia commodi dignissimos vero minima. Consequatur, rem amet.",
                                 "classes": "html-content-text"

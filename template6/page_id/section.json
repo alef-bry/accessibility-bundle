@@ -35,6 +35,37 @@
                                 ]
                             }, 
                        
+                  "LMROCFA2JGQDU7OAWRHLWXW4EGM": {
+                   "title": "Rectangle",
+                        
+                                "indent": 
+                                                   null
+                                                  ,
+                                "classes": "",
+                                            
+                                  
+
+                                "columns": [
+                                  
+                                    {   "alignment": 
+                                                       null
+                                                      ,
+                                        "vertical_align":
+                                                             null
+                                                            ,
+                                        "col_width": "12",
+                                        "indent": 
+                                                     null
+                                                    ,
+                                        "column_border": 
+                                                             null
+                                                            ,
+                                        "column_id": "LSG52YIYGNO5UDM4BCD5YJOKGNQ",
+                                        "file_name": [ "column", "column_PHGCHYTTBBHULEUX4PRLAFKJJU"]
+                                    }
+                                ]
+                            }, 
+                       
                   "LDDXM74YM7KVUFHP5QBUOP3VZRU": {
                    "title": "Mix",
                         
@@ -61,42 +92,6 @@
                                                              null
                                                             ,
                                         "column_id": "LD5G7IRTKVE4ENCR6URLJKAC4SQ",
-                                        "file_name": [ "column", "column_PHGCHYTTBBHULEUX4PRLAFKJJU"]
-                                    }
-                                ]
-                            }, 
-                       
-                  "LBDCTKJCKW4IUJFAQLSQPLPSNAQ": {
-                   "title": "",
-                        
-                                   "left": {
-                                        "icon": "graph",
-                                        "title":" Graph simulator component"
-                                                },
-                                
-                                "indent": 
-                                                   null
-                                                  ,
-                                "classes": "",
-                                            
-                                  
-
-                                "columns": [
-                                  
-                                    {   "alignment": 
-                                                       null
-                                                      ,
-                                        "vertical_align":
-                                                             null
-                                                            ,
-                                        "col_width": "auto",
-                                        "indent": 
-                                                     null
-                                                    ,
-                                        "column_border": 
-                                                             null
-                                                            ,
-                                        "column_id": "LYKQVDH7UGBGUBFTHAWMG2T6STQ",
                                         "file_name": [ "column", "column_PHGCHYTTBBHULEUX4PRLAFKJJU"]
                                     }
                                 ]

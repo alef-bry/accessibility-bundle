@@ -5,6 +5,64 @@
 
    
 
+                 "LJ2B4X3I7GLQEVNDENSNW66KJL4" : {
+                   "type": "graph",
+                   "graphType": "drawing" ,
+                    "width": 600,
+                    "height": 600,
+                    "point": false,
+                            
+                    "line": false,
+                    "segment": false,
+                    "triangle": false,
+                   "circle": false,
+                   "rectangle": true,
+                   "angle": false,
+                   "move": true,
+                   "ruler":  true,
+                   "protractor": true,
+                  "clear":   true,
+                   "undo":  true,
+                  "redo":  true,
+                  "answer": [
+                    
+                        {
+                            "answer_id": "LFTQI7G6VANTEFIAU7EPOJTZB2A",
+                            "type" : "polygon",
+                            "validation": "angle",
+                            "coords" : [
+                                {
+                                  "point" : "1,1"
+                                },
+                                {
+                                  "point" : "3,1"
+                                },
+                                {
+                                  "point" : "3,4"
+                                },
+                                {
+                                  "point" : "1,4"
+                                }
+                            ],
+                            "angles": [90,90,90,90],
+                            "length" : [2,3,2,3]
+                        }
+                          
+                    
+                  ],
+                 "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                            ],
+                  "submit": {
+                            "text": "Submit"
+                            }
+                
+
+                 } ,
+
                  "LL7D335J6YJXUFPOJSY2PELXRUQ" : {
                    "type": "graph",
                    "graphType": "drawing" ,

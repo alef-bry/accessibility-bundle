@@ -3,9 +3,10 @@
       "advance_video": {
                   
                   "LXA4NFYXEHXREBFETHEOT7UQGAM":
-                    {                   
+                    { 
+                      "title":"",                 
                       "subtitle_disabled": false,
-                      "subtitle_position": "top",
+                      "subtitle_position": "bottom",
                       "skippable": true,
                       "streaming":  false,
                        "video": {
@@ -34,49 +35,11 @@
                           {
                               "videosubtitles_id":"LC2XBI656BAFUZJ7TXKL5Q3KIT4",
                               "id": "LHY6K4ZKZ5XMEXAYMWHV4OORKUY",
-                              "url": "../../source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
+                              "url": "./source/LQWA4FYP7XBXEBIRAVBYP25WENE/advance_video_1.vtt",
                               "srclang": "en",
                               "lang_name": "English",
                               "default": true
                           } 
-                      ] 
-                      },
-                  "LTKDSX4TYGX2UZEHCL236LPLCJA":
-                    {                   
-                      "subtitle_disabled": false,
-                      "subtitle_position": "top",
-                      "skippable": true,
-                      "streaming":  false,
-                       "video": {
-                                    "component_id": "LEOGQB2BVYMEE5NGP3DORE7BNXI",
-                                    "component_name": "video",
-                                    "file_name": ["video", "video_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                 },
-
-                      "breakpoints": [
-                         
-                          {
-                              "id": "L2HUW5PJZKY3E7AS256AVKQWL64",
-                              "time": "00:00:03",
-                              "content": [
-                                  {
-                                      "component_name": "section",
-                                      "component_id": "LPCS7WBEGLKIU5JTXHCQ5OD6RMU",
-                                      "file_name": [ "section", "section_SX6KF6SMUYIUTNQV2EYYBI5YQA"]
-                                  }
-                              ],
-                             "listpoint" : ["00:00:00", "00:00:00", "00:00:00"]
-                          } 
-                      ],
-                      "subtitles": [
-                        {
-                            "videosubtitles_id":"LC2XBI656BAFUZJ7TXKL5Q3KIT3",
-                            "id": "LHY6K4ZKZ5XMEXAYMWHV4OORKUZ",
-                            "url": "../../source/L2KTJYYQZITJE3FC7OUDQ7YFIHI/advance_video_1.vtt",
-                            "srclang": "en",
-                            "lang_name": "English",
-                            "default": true
-                        } 
                       ] 
                       }  
          }

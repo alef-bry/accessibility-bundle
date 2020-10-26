@@ -148,10 +148,11 @@
                                           ,
                         "invert_position":
                                                 false
-                                              ,
-                        "sticky_options":
+                                              , 
+                         "sticky_options":
                                                 false
-                                              ,     
+                                              , 
+
                         "filed_theme": null,
                         "position": null,
                        
@@ -258,15 +259,17 @@
                                           ,
                         "invert_position":
                                                 false
-                                              ,
-                        "sticky_options":
+                                              , 
+                         "sticky_options":
                                                 false
-                                              ,     
+                                              , 
+
                         "filed_theme": null,
                         "position": null,
                          
                          "image_id": "LIC4KHRQAX6NUZENWCRCTYD5LFA",    
-                         "image_url":"../../source/LIC4KHRQAX6NUZENWCRCTYD5LFA/equation.png",
+                         "image_url":"./source/LIC4KHRQAX6NUZENWCRCTYD5LFA/equation.png",
+                         "alt":"Sample equation image",
                          "width": 
                                               null
                                             ,
@@ -352,6 +355,7 @@
                          "column": 0,
                          "submit_counter": false,
                          "submit_limit": 2,
+                         "ignore_tashkeel": false,
                          "feedback_type": 
                                                 "incorrect"
                                               ,
@@ -442,13 +446,15 @@
                          "column": 0,
                          "submit_counter": false,
                          "submit_limit": 2,
+                         "ignore_tashkeel": false,
                          "feedback_type": 
                                                 "incorrect"
                                               ,
                          "item_auto_width": false,
                       
                          "image_id": "LOA4IQF6KPGAETBKOT2TQLRW4ZY",      
-                         "image_url":"../../source/LOA4IQF6KPGAETBKOT2TQLRW4ZY/equation.png",
+                         "image_url":"./source/LOA4IQF6KPGAETBKOT2TQLRW4ZY/equation.png",
+                         "alt":"Sample equation image",
                          "width": 
                                               null
                                             ,

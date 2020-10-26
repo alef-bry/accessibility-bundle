@@ -10,11 +10,24 @@
                       "height": 0,
                       "adaptive_height": true,
                       "component_color": "#F27F26",
-                      "nav_position": "top",        
+                      "nav_position": "top",
+                      "title": "",      
                       "items": [
                                
                                   {
                                       "slide_id": 0,
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LMROCFA2JGQDU7OAWRHLWXW4EGM",
+                                              "file_name": [ "section", "section_PHGCHYTTBBHULEUX4PRLAFKJJU"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 1,
                                       "content": [
                                           {
                                               "component_name": "section",

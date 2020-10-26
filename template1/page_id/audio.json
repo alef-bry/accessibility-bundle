@@ -8,8 +8,9 @@
                                  "data": {
                                             "type": "advance",
                                       
+                                            "description":"",
                                             "autoplay": false,
-                                            "url": "../../source/LYNDXOUCTCY6EXMU3I5WFFATU5Q/SampleAudio.mp3",
+                                            "url": "./source/LYNDXOUCTCY6EXMU3I5WFFATU5Q/SampleAudio.mp3",
                                             "id": "LYNDXOUCTCY6EXMU3I5WFFATU5Q",
                                             "controls": {
                                                     "seekbar": true,
@@ -17,62 +18,19 @@
                                                     "download": true,
                                                     "volume_level": false
                                                     },
-                                           "position":null
-                                        }
-                                }
-                                ,
-                      "L3ASAH5HTMHGEJB4B4WHCEKGLFM":
-                                {
-                                 "data": {
-                                            "type": "advance",
-                                      
-                                            "autoplay": false,
-                                            "url": "../../source/LYEYW7KGHKDWEVHJ4HA63L6J5JQ/SampleAudio.mp3",
-                                            "id": "LYEYW7KGHKDWEVHJ4HA63L6J5JQ",
-                                            "controls": {
-                                                    "seekbar": true,
-                                                    "volume": false,
-                                                    "download": false,
-                                                    "volume_level": false
-                                                    },
-                                           "position":null
-                                        }
-                                }
-                                ,
-                      "LCEDUTJZ6IEWEJNQB5QBEDSMWZY":
-                                {
-                                 "data": {
-                                            "type": "simple",
-                                      
-                                            "autoplay": false,
-                                            "url": "../../source/LYFF5JI2I52EENALSF5JHO43VQ4/SampleAudio.mp3",
-                                            "id": "LYFF5JI2I52EENALSF5JHO43VQ4",
-                                            "controls": {
-                                                    "seekbar": true,
-                                                    "volume": true,
-                                                    "download": false,
-                                                    "volume_level": false
-                                                    },
-                                           "position":null
-                                        }
-                                }
-                                ,
-                      "LN56PKRN5FLXEZHHJKCPN4FGVBM":
-                                {
-                                 "data": {
-                                            "type": "simple",
-                                      
-                                            "autoplay": false,
-                                            "url": "../../source/LICGJBUYN7FHEFEW64TBF2GQM7Y/SampleAudio.mp3",
-                                            "id": "LICGJBUYN7FHEFEW64TBF2GQM7Y",
-                                            "controls": {
-                                                    "seekbar": true,
-                                                    "volume": true,
-                                                    "download": false,
-                                                    "volume_level": false
-                                                    },
-                                           "position":null
-                                        }
+                                           "position":null,
+                                         "subtitles": [
+                                           
+                                             {
+                                            "id": "LTIVTZHLDEWAUTB26NWFKTSUFXQ",
+                                            "url": "./audiosubtitles_EBXOGT3EHLSU7KLEVHZW3FSL3Y.vtt",
+                                            "srclang": "en",
+                                            "lang_name": "English",
+                                            "default": true
+                                             }
+                                            ]
+                                        
+                                    }
                                 }
                                 
          }

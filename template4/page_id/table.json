@@ -6,6 +6,7 @@
                  {
                     "fullscreen": false,
                     "border": true,
+                    "caption":"Sample table caption here.",
                     "th":  { 
                     "id":  
                                "LLLBPENMN5SIEDOYJM2QSUZI45M"
@@ -228,6 +229,7 @@
                  {
                     "fullscreen": true,
                     "border": true,
+                    "caption":"Sample table caption here.",
                     "th":  { 
                     "id":  
                                "L5KMGFBCGU6IUFGCQJQBHHV5FWM"
@@ -449,6 +451,7 @@
                     
                        {
                         "fullscreen": true,
+                        "caption":"Sample table caption here.",
                          "border": true,
                         "tr": [
                               
@@ -655,6 +658,7 @@
                  {
                     "fullscreen": true,
                     "border": false,
+                    "caption":"Sample table caption here.",
                     "th":  { 
                     "id":  
                                "L4N4EKF7JUZ3E5CYVD7EZZGGQV4"
