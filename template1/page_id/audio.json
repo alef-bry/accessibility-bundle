@@ -10,7 +10,7 @@
                                       
                                             "description":"",
                                             "autoplay": false,
-                                            "url": "./source/LYNDXOUCTCY6EXMU3I5WFFATU5Q/SampleAudio.mp3",
+                                            "url": "../../source/LYNDXOUCTCY6EXMU3I5WFFATU5Q/SampleAudio.mp3",
                                             "id": "LYNDXOUCTCY6EXMU3I5WFFATU5Q",
                                             "controls": {
                                                     "seekbar": true,

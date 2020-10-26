@@ -10,7 +10,7 @@
                                       
                                             "description":"Sample audio with person speaking in Arabic.",
                                             "autoplay": false,
-                                            "url": "./source/LQWA4FYP7XBXEBIRAVBYP25WENE/AR7_MLO_151_MP_001.mp3",
+                                            "url": "../../source/LQWA4FYP7XBXEBIRAVBYP25WENE/AR7_MLO_151_MP_001.mp3",
                                             "id": "LQWA4FYP7XBXEBIRAVBYP25WENE",
                                             "controls": {
                                                     "seekbar": true,
@@ -23,7 +23,7 @@
                                            
                                              {
                                             "id": "LDE2W4ZK2ZJVE5AEI4NAIZ744ZE",
-                                            "url": "./source/LQWA4FYP7XBXEBIRAVBYP25WENE/advance_video_1.vtt",
+                                            "url": "../../source/LQWA4FYP7XBXEBIRAVBYP25WENE/advance_video_1.vtt",
                                             "srclang": "en",
                                             "lang_name": "English",
                                             "default": true

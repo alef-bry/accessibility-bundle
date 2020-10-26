@@ -5,10 +5,10 @@
                 
                       "LOX37U6NQZKFE5KDX7RY5QGTXUQ": {
                             "data": {
-                                "url": "./source/LOX37U6NQZKFE5KDX7RY5QGTXUQ/axe_vid.mp4",
+                                "url": "../../source/LOX37U6NQZKFE5KDX7RY5QGTXUQ/axe_vid.mp4",
                                 "style": "square",
                                  "description":"Blind person helping a bird.",
-                                "audio_description": "./source/LQWA4FYP7XBXEBIRAVBYP25WENE/audio_desc.mp3",
+                                "audio_description": "../../source/LQWA4FYP7XBXEBIRAVBYP25WENE/audio_desc.mp3",
                                  "border": {
                                             "width": 2,
                                             "color": "Grey"
