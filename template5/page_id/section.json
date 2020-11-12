@@ -917,7 +917,7 @@
                         
                                    "left": {
                                         "icon": "challenge",
-                                        "title":"Notebok component"
+                                        "title":"Pain and notebok component"
                                                 },
                                 
                                 "indent": 
@@ -928,6 +928,22 @@
                                   
 
                                 "columns": [
+                                    {   "alignment": 	
+                                        null	
+                                       ,	
+                         "vertical_align":	
+                                              null	
+                                             ,	
+                         "col_width": "auto",	
+                         "indent": 	
+                                      null	
+                                     ,	
+                         "column_border": 	
+                                              null	
+                                             ,	
+                         "column_id": "LM4LHJ5WMQFSURAAKPY46U5D3NQ",	
+                         "file_name": [ "column", "column_OLTLLTZ4V2UUBPYVAG7EDWIZXM"]	
+                     },
                                     {   "alignment": 
                                                        null
                                                       ,
