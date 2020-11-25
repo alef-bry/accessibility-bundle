@@ -22,7 +22,7 @@
                          "id": "LVIK6BNZUITFE5BKMNODCOCRIGI",
                          "hotspot_name": "Hotspot name",
                          "shape": "square",
-
+                         "label": "Plant's flower.",
                          "hotspot_icon": null,
                           "content": [
                               {

@@ -9,6 +9,7 @@
                   "direction": "vertical",
                   "background":"",
                   "component_color": "#F27F26",
+                  "title": "Collapse open single tab",
                   "items": [
                            
                               {
@@ -46,6 +47,7 @@
                   "first_open":false,
                   "direction": "vertical",
                   "background":"",
+                  "title": "Collapse open multiple tab",
                   "component_color": "#F27F26",
                   "items": [
                            
@@ -84,6 +86,7 @@
                   "first_open":false,
                   "direction": "horizontal",
                   "background":"",
+                  "title": "Collapse horizontal",
                   "component_color": "#F27F26",
                   "items": [
                            

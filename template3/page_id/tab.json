@@ -9,7 +9,8 @@
                        "height": 0,
                        "adaptive_height": false,
                        "background":"",
-                       "component_color": "#F27F26",             
+                         "title": "Tab component, normal tab",
+                        "component_color": "#F27F26",             
                                 
                       "items": [
                                
@@ -52,6 +53,7 @@
                        "adaptive_height": false,
                        "background":"",
                        "component_color": "#F27F26",             
+                         "title": "Tab component, linked tab",
                                 
                       "items": [
                                
@@ -94,6 +96,7 @@
                        "adaptive_height": false,
                        "background":"",
                        "component_color": "#F27F26",             
+                         "title": "Left tab",
                                 
                       "items": [
                                
@@ -136,6 +139,7 @@
                        "adaptive_height": false,
                        "background":"",
                        "component_color": "#F27F26",             
+                         "title": "Right tab",
                                 
                       "items": [
                                
@@ -178,6 +182,7 @@
                        "adaptive_height": false,
                        "background":"",
                        "component_color": "#F27F26",             
+                         "title": "Bottom tab",
                                 
                       "items": [
                                
